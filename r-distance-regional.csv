@@ -1,0 +1,3108 @@
+State,County,Region,RDistance
+Alabama ,Autauga ,South,0.627754150736149
+Alabama ,Baldwin ,South,-1.0495857320496
+Alabama ,Barbour ,South,-0.498153172927353
+Alabama ,Bibb ,South,0.559707018684059
+Alabama ,Blount ,South,0.872446410330422
+Alabama ,Bullock ,South,-1.09237637292556
+Alabama ,Butler ,South,0.960037962520997
+Alabama ,Calhoun ,South,0.607219045185104
+Alabama ,Chambers ,South,0.423936149349588
+Alabama ,Cherokee ,South,1.02763554707259
+Alabama ,Chilton ,South,0.955257027319187
+Alabama ,Choctaw ,South,0.504679977111961
+Alabama ,Clarke ,South,0.158451105416535
+Alabama ,Clay ,South,-0.291636869511359
+Alabama ,Cleburne ,South,0.346730419633528
+Alabama ,Coffee ,South,1.19835459104716
+Alabama ,Colbert ,South,-0.349474726603408
+Alabama ,Conecuh ,South,0.589512395728791
+Alabama ,Coosa ,South,0.21367098271454
+Alabama ,Covington ,South,0.25569494537058
+Alabama ,Crenshaw ,South,0.70325575514183
+Alabama ,Cullman ,South,1.02398544546348
+Alabama ,Dale ,South,0.614803324643001
+Alabama ,Dallas ,South,1.52339038135502
+Alabama ,DeKalb ,South,0.725930182252497
+Alabama ,Elmore ,South,0.036750468273896
+Alabama ,Escambia ,South,0.982722069370032
+Alabama ,Etowah ,South,1.71030360142114
+Alabama ,Fayette ,South,1.23329358457591
+Alabama ,Franklin ,South,1.24310266359534
+Alabama ,Geneva ,South,0.244167884126595
+Alabama ,Greene ,South,0.01802894608327
+Alabama ,Hale ,South,-0.661265466517692
+Alabama ,Henry ,South,0.279666604070918
+Alabama ,Houston ,South,0.417875480303085
+Alabama ,Jackson ,South,0.357661648919578
+Alabama ,Jefferson ,South,0.330628346231218
+Alabama ,Lamar ,South,1.1111568030919
+Alabama ,Lauderdale ,South,-0.056177184499748
+Alabama ,Lawrence ,South,0.048335864289203
+Alabama ,Lee ,South,-0.206160030009721
+Alabama ,Limestone ,South,-0.111542338530893
+Alabama ,Lowndes ,South,-0.031512499557826
+Alabama ,Macon ,South,-0.599403998278926
+Alabama ,Madison ,South,-0.412952589331244
+Alabama ,Marengo ,South,-0.557687287512205
+Alabama ,Marion ,South,1.40098269500533
+Alabama ,Marshall ,South,0.212682607589633
+Alabama ,Mobile ,South,-0.536769015630394
+Alabama ,Monroe ,South,0.597950124344167
+Alabama ,Montgomery ,South,0.056877030563932
+Alabama ,Morgan ,South,0.005766714739074
+Alabama ,Perry ,South,-0.535001610179395
+Alabama ,Pickens ,South,1.07877299351976
+Alabama ,Pike ,South,0.984454779968045
+Alabama ,Randolph ,South,0.799919337987085
+Alabama ,Russell ,South,1.08049667361619
+Alabama ,Shelby ,South,0.084948327707309
+Alabama ,St. Clair ,South,0.885659488819475
+Alabama ,Sumter ,South,-0.071009864530267
+Alabama ,Talladega ,South,1.05149003318713
+Alabama ,Tallapoosa ,South,0.739479909033634
+Alabama ,Tuscaloosa ,South,0.449701483825176
+Alabama ,Walker ,South,1.51789530234287
+Alabama ,Washington  ,South,0.706962807112561
+Alabama ,Wilcox ,South,0.671438835687764
+Alabama ,Winston ,South,-0.652026954713937
+Arizona ,Apache ,West,0.153120254388709
+Arizona ,Cochise ,West,-1.7392964568011
+Arizona ,Coconino ,West,-1.11103407439743
+Arizona ,Gila ,West,0.093494857170237
+Arizona ,Graham ,West,0.164827478924419
+Arizona ,Greenlee ,West,0.367815186735717
+Arizona ,La Paz ,West,-0.802015744061723
+Arizona ,Maricopa ,West,0.186532609754992
+Arizona ,Mohave ,West,-0.159240648271798
+Arizona ,Navajo ,West,0.42241088167641
+Arizona ,Pima ,West,-1.11250842481807
+Arizona ,Pinal ,West,0.215114142106779
+Arizona ,Santa Cruz ,West,-2.07174060274865
+Arizona ,Yavapai ,West,-0.648024258135743
+Arizona ,Yuma ,West,0.673744181307831
+Arkansas ,Arkansas  ,South,-0.853368472312111
+Arkansas ,Ashley ,South,-0.220475750341539
+Arkansas ,Baxter ,South,-0.037924228903108
+Arkansas ,Benton ,South,-0.582910721728417
+Arkansas ,Boone ,South,-0.140860867882083
+Arkansas ,Bradley ,South,1.14638585225066
+Arkansas ,Calhoun ,South,-0.283191098140216
+Arkansas ,Carroll ,South,-0.05096515661191
+Arkansas ,Chicot ,South,-0.587980827757413
+Arkansas ,Clark ,South,-0.309226231202878
+Arkansas ,Clay ,South,-0.417203068559057
+Arkansas ,Cleburne ,South,-0.350705228545259
+Arkansas ,Cleveland ,South,0.833563256264372
+Arkansas ,Columbia ,South,-0.211134469538488
+Arkansas ,Conway ,South,-0.29677014330265
+Arkansas ,Craighead ,South,-0.158249844130582
+Arkansas ,Crawford ,South,0.151806757812527
+Arkansas ,Crittenden ,South,-0.25895799074471
+Arkansas ,Cross ,South,0.640269225404825
+Arkansas ,Dallas ,South,0.983842429381534
+Arkansas ,Desha ,South,-0.672446278044755
+Arkansas ,Drew ,South,0.455417351687956
+Arkansas ,Faulkner ,South,-0.160245962568607
+Arkansas ,Franklin ,South,-0.789142311203369
+Arkansas ,Fulton ,South,0.094141724527797
+Arkansas ,Garland ,South,-0.083871666140977
+Arkansas ,Grant ,South,0.865851784510835
+Arkansas ,Greene ,South,0.543991059785649
+Arkansas ,Hempstead ,South,-0.769790995861482
+Arkansas ,Hot Spring ,South,0.542229712137895
+Arkansas ,Howard ,South,-0.195289742153049
+Arkansas ,Independence ,South,1.23531689511189
+Arkansas ,Izard ,South,1.42356431389761
+Arkansas ,Jackson ,South,0.534112094522113
+Arkansas ,Jefferson ,South,-0.726860304329172
+Arkansas ,Johnson ,South,-0.490113806701386
+Arkansas ,Lafayette ,South,-0.145805078735291
+Arkansas ,Lawrence ,South,0.832472993032238
+Arkansas ,Lee ,South,0.180561465519814
+Arkansas ,Lincoln ,South,0.742826638202534
+Arkansas ,Little River ,South,-0.744364394986142
+Arkansas ,Logan ,South,-0.556183655204495
+Arkansas ,Lonoke ,South,-0.224360977372996
+Arkansas ,Madison ,South,-0.711472367358091
+Arkansas ,Marion ,South,-0.415276076599739
+Arkansas ,Miller ,South,0.159864614130373
+Arkansas ,Mississippi  ,South,0.196815330857354
+Arkansas ,Monroe ,South,-0.804165353419691
+Arkansas ,Montgomery ,South,-0.685675160394006
+Arkansas ,Nevada  ,South,0.998846518638529
+Arkansas ,Newton ,South,-1.32789701853528
+Arkansas ,Ouachita ,South,0.898188160064207
+Arkansas ,Perry ,South,-0.267230421141091
+Arkansas ,Phillips ,South,0.308033897206971
+Arkansas ,Pike ,South,0.332680793363801
+Arkansas ,Poinsett ,South,0.171019528278729
+Arkansas ,Polk ,South,0.126502795445615
+Arkansas ,Pope ,South,-0.520133115588889
+Arkansas ,Prairie ,South,-1.32884023010827
+Arkansas ,Pulaski ,South,-0.674809353437167
+Arkansas ,Randolph ,South,1.06608664764823
+Arkansas ,Saline ,South,-0.047849364775453
+Arkansas ,Scott ,South,-1.53073407206683
+Arkansas ,Searcy ,South,0.110397004749543
+Arkansas ,Sebastian ,South,-1.05662842649183
+Arkansas ,Sevier ,South,0.342354659527487
+Arkansas ,Sharp ,South,0.724529620770975
+Arkansas ,St. Francis ,South,0.660734727408983
+Arkansas ,Stone ,South,-0.313413861769255
+Arkansas ,Union ,South,-0.33219279130799
+Arkansas ,Van Buren ,South,-0.945563242842358
+Arkansas ,Washington  ,South,-0.675346871117012
+Arkansas ,White ,South,-0.441152768082628
+Arkansas ,Woodruff ,South,0.103985723564061
+Arkansas ,Yell ,South,-1.11272464867955
+California ,Alameda ,West,0.007945222630688
+California ,Alpine ,West,-1.51679925000643
+California ,Amador ,West,0.012964482345159
+California ,Butte ,West,0.045954752916018
+California ,Calaveras ,West,0.215007832261182
+California ,Colusa ,West,-0.492629845255357
+California ,Contra Costa ,West,0.049346193673755
+California ,Del Norte ,West,-0.62498681313615
+California ,El Dorado ,West,0.276418342892163
+California ,Fresno ,West,0.857981365421078
+California ,Glenn ,West,-0.160920854017077
+California ,Humboldt ,West,-1.39009600801428
+California ,Imperial ,West,-0.457457116485007
+California ,Inyo ,West,-1.85324676350832
+California ,Kern ,West,-0.067905738263941
+California ,Kings ,West,0.904849170774981
+California ,Lake ,West,-0.043671962474394
+California ,Lassen ,West,-0.058023888482271
+California ,Los Angeles ,West,0.003381736555747
+California ,Madera ,West,0.728075838826974
+California ,Marin ,West,-1.15175943505771
+California ,Mariposa ,West,-1.32302525543069
+California ,Mendocino ,West,-1.08233931230619
+California ,Merced ,West,0.733020315674882
+California ,Modoc ,West,-0.538429854146916
+California ,Mono ,West,-1.79977417122404
+California ,Monterey ,West,-0.936625859227492
+California ,Napa ,West,0.250496295438149
+California ,Nevada  ,West,-0.077638291592211
+California ,Orange ,West,0.106985420661754
+California ,Placer ,West,0.460343204211449
+California ,Plumas ,West,-1.09988424971612
+California ,Riverside ,West,0.394724076167599
+California ,Sacramento ,West,-0.049303528294469
+California ,San Benito ,West,-0.513854841867669
+California ,San Bernardino ,West,0.457695914194096
+California ,San Diego ,West,-0.389177147235976
+California ,San Francisco ,West,-0.356361245823763
+California ,San Joaquin ,West,0.760640464993979
+California ,San Luis Obispo ,West,-0.695717775449572
+California ,San Mateo ,West,-0.646341571051418
+California ,Santa Barbara ,West,-0.53312662830023
+California ,Santa Clara ,West,0.031309472992043
+California ,Santa Cruz ,West,-1.23530985478363
+California ,Shasta ,West,0.086364919504692
+California ,Sierra ,West,-1.56713069100053
+California ,Siskiyou ,West,-0.749396599668597
+California ,Solano ,West,0.453173498412752
+California ,Sonoma ,West,-0.497963252018373
+California ,Stanislaus ,West,0.788538205418476
+California ,Sutter ,West,0.466245000536936
+California ,Tehama ,West,-0.045977969618889
+California ,Trinity ,West,-0.034664811598759
+California ,Tulare ,West,0.439964305299001
+California ,Tuolumne ,West,-0.207953106241256
+California ,Ventura ,West,-0.147011296918892
+California ,Yolo ,West,-0.668783401567284
+California ,Yuba ,West,0.731546964210401
+Colorado ,Adams ,West,0.423454168365067
+Colorado ,Alamosa ,West,-0.360672464240476
+Colorado ,Arapahoe ,West,0.127199763240587
+Colorado ,Archuleta ,West,-0.230435493407544
+Colorado ,Baca ,West,-0.850234211000357
+Colorado ,Bent ,West,-0.714983331142936
+Colorado ,Boulder ,West,-0.874483608261298
+Colorado ,Broomfield ,West,0.305382723308116
+Colorado ,Chaffee ,West,-0.264540858429565
+Colorado ,Cheyenne ,West,-0.37408021337292
+Colorado ,Clear Creek ,West,-0.627530857719318
+Colorado ,Conejos ,West,0.756044288253395
+Colorado ,Costilla ,West,0.546836285144684
+Colorado ,Crowley ,West,0.121034011125311
+Colorado ,Custer ,West,0.019625923361196
+Colorado ,Delta ,West,0.201682573765235
+Colorado ,Denver ,West,0.479812927679118
+Colorado ,Dolores ,West,0.419544685944289
+Colorado ,Douglas ,West,-0.188653395549138
+Colorado ,Eagle ,West,0.431900157937203
+Colorado ,El Paso ,West,0.018706685887815
+Colorado ,Elbert ,West,0.191943700645937
+Colorado ,Fremont ,West,-0.263066336174102
+Colorado ,Garfield ,West,0.415646658768426
+Colorado ,Gilpin ,West,0.168705106259022
+Colorado ,Grand ,West,-0.374594661114296
+Colorado ,Gunnison ,West,-0.566030401826925
+Colorado ,Hinsdale ,West,-0.6279209614258
+Colorado ,Huerfano ,West,0.01162330993186
+Colorado ,Jackson ,West,-1.87594675980244
+Colorado ,Jefferson ,West,-0.545077850958604
+Colorado ,Kiowa ,West,-1.21672081649822
+Colorado ,Kit Carson ,West,0.1027937056948
+Colorado ,La Plata ,West,0.001800873857009
+Colorado ,Lake ,West,0.565342396961437
+Colorado ,Larimer ,West,-0.873019447705455
+Colorado ,Las Animas ,West,0.413623534186075
+Colorado ,Lincoln ,West,-0.528060786054066
+Colorado ,Logan ,West,-0.161754190195164
+Colorado ,Mesa ,West,-0.143562635966566
+Colorado ,Mineral ,West,-0.330974662002294
+Colorado ,Moffat ,West,-0.065082688637268
+Colorado ,Montezuma ,West,0.014125206647252
+Colorado ,Montrose ,West,0.07456125483834
+Colorado ,Morgan ,West,0.023485740313891
+Colorado ,Otero ,West,0.094389416033968
+Colorado ,Ouray ,West,-0.276517751056981
+Colorado ,Park ,West,-0.753285381309831
+Colorado ,Phillips ,West,-0.098113975529658
+Colorado ,Pitkin ,West,0.395071075965913
+Colorado ,Prowers ,West,-1.03428226040112
+Colorado ,Pueblo ,West,0.106590719748617
+Colorado ,Rio Blanco ,West,0.371974851779662
+Colorado ,Rio Grande ,West,0.357941017333349
+Colorado ,Routt ,West,-0.150277280127155
+Colorado ,Saguache ,West,-0.137266650282988
+Colorado ,San Juan ,West,-0.390700702070044
+Colorado ,San Miguel ,West,0.0433403553162
+Colorado ,Sedgwick ,West,-0.53405361378438
+Colorado ,Summit ,West,-0.22138445830452
+Colorado ,Teller ,West,0.056300314955381
+Colorado ,Washington  ,West,-0.627501329865623
+Colorado ,Weld ,West,-0.213708815297304
+Colorado ,Yuma ,West,-0.426276644732805
+Connecticut ,Fairfield ,Northeast,-0.656081851840889
+Connecticut ,Hartford ,Northeast,-0.437088018383256
+Connecticut ,Litchfield ,Northeast,-0.828122979654703
+Connecticut ,Middlesex ,Northeast,-0.206118372357177
+Connecticut ,New Haven ,Northeast,-0.605465903765422
+Connecticut ,New London ,Northeast,-0.309850950961239
+Connecticut ,Tolland ,Northeast,-0.13878823946594
+Connecticut ,Windham ,Northeast,0.233573169556625
+Delaware ,Kent ,South,-1.4786887873699
+Delaware ,New Castle ,South,-1.04083194397997
+Delaware ,Sussex ,South,-1.68954267280558
+District of Columbia ,Washington City ,South,-1.09273933973648
+Florida ,Alachua ,South,-1.66402400714391
+Florida ,Baker ,South,0.244179567368184
+Florida ,Bay ,South,-0.312158331255255
+Florida ,Bradford ,South,0.299754720692713
+Florida ,Brevard ,South,-1.34692239489213
+Florida ,Broward ,South,-0.001296655343911
+Florida ,Calhoun ,South,-0.222117924590347
+Florida ,Charlotte ,South,-1.24964008087592
+Florida ,Citrus ,South,-0.429973789333346
+Florida ,Clay ,South,-0.466095532774371
+Florida ,Collier ,South,-1.52339771437198
+Florida ,Columbia ,South,0.029304544571105
+Florida ,DeSoto ,South,-0.200486860688244
+Florida ,Dixie ,South,-0.475000123806165
+Florida ,Duval ,South,-0.560607306991311
+Florida ,Escambia ,South,-0.169695109484582
+Florida ,Flagler ,South,-0.401514229707914
+Florida ,Franklin ,South,-2.25005929262101
+Florida ,Gadsden ,South,-0.293282907375741
+Florida ,Gilchrist ,South,0.000900043875568
+Florida ,Glades ,South,-1.31009950973127
+Florida ,Gulf ,South,-0.985617046506946
+Florida ,Hamilton ,South,-0.015572476546497
+Florida ,Hardee ,South,0.028826822596186
+Florida ,Hendry ,South,-1.11440153714543
+Florida ,Hernando ,South,-0.942302102385511
+Florida ,Highlands ,South,-0.799809000956592
+Florida ,Hillsborough ,South,-0.136738055646047
+Florida ,Holmes ,South,0.241908757252148
+Florida ,Indian River ,South,-1.06992577041991
+Florida ,Jackson ,South,-0.13995777683133
+Florida ,Jefferson ,South,-1.31060851454551
+Florida ,Lafayette ,South,-0.229782885760591
+Florida ,Lake ,South,-0.709120253196897
+Florida ,Lee ,South,-1.3594195477968
+Florida ,Leon ,South,-1.12943499446472
+Florida ,Levy ,South,-1.17474903924404
+Florida ,Liberty ,South,-0.499648031101389
+Florida ,Madison ,South,-0.227276270330079
+Florida ,Manatee ,South,-0.581944872192831
+Florida ,Marion ,South,-0.204438733649859
+Florida ,Martin ,South,-0.721595840435076
+Florida ,Miami-Dade ,South,-0.421373277479645
+Florida ,Monroe ,South,-2.26682665620089
+Florida ,Nassau ,South,-0.627345529425396
+Florida ,Okaloosa ,South,-0.282228005035273
+Florida ,Okeechobee ,South,-0.810893118415635
+Florida ,Orange ,South,-0.559087262057955
+Florida ,Osceola ,South,-0.550443128331787
+Florida ,Palm Beach ,South,-0.645331909905877
+Florida ,Pasco ,South,-0.511779745260315
+Florida ,Pinellas ,South,-1.01472529804831
+Florida ,Polk ,South,-0.534568257896035
+Florida ,Putnam ,South,0.150739642558303
+Florida ,Santa Rosa ,South,-0.183169023022074
+Florida ,Sarasota ,South,-1.23695846650235
+Florida ,Seminole ,South,-0.673419375598664
+Florida ,St. Johns ,South,-1.05198902733299
+Florida ,St. Lucie ,South,-0.02301022123162
+Florida ,Sumter ,South,-0.057937617257183
+Florida ,Suwannee ,South,-0.061157541450002
+Florida ,Taylor ,South,-0.42224554382321
+Florida ,Union ,South,0.245649392559168
+Florida ,Volusia ,South,-0.589925230972597
+Florida ,Wakulla ,South,-1.94524991716772
+Florida ,Walton ,South,-0.27575150320285
+Florida ,Washington  ,South,-0.379184414568787
+Georgia ,Appling ,South,0.591265720023112
+Georgia ,Atkinson ,South,0.773641736581786
+Georgia ,Bacon ,South,1.24808359601124
+Georgia ,Baker ,South,-1.36895908045971
+Georgia ,Baldwin ,South,0.298371628949535
+Georgia ,Banks ,South,0.720164446645173
+Georgia ,Barrow ,South,0.751366878614096
+Georgia ,Bartow ,South,-0.732473871145567
+Georgia ,Ben Hill ,South,1.31839553165223
+Georgia ,Berrien ,South,0.277293272807982
+Georgia ,Bibb ,South,-0.934352276289376
+Georgia ,Bleckley ,South,-0.307630623431468
+Georgia ,Brantley ,South,0.492548860042268
+Georgia ,Brooks ,South,-0.345365666069161
+Georgia ,Bryan ,South,0.07731711558777
+Georgia ,Bulloch ,South,-0.278979160680544
+Georgia ,Burke ,South,-0.500047829083439
+Georgia ,Butts ,South,-0.624913247223229
+Georgia ,Calhoun ,South,0.211934248101345
+Georgia ,Camden ,South,-1.09848597520264
+Georgia ,Candler ,South,0.131221806615839
+Georgia ,Carroll ,South,0.033916201194722
+Georgia ,Catoosa ,South,-0.068119134321924
+Georgia ,Charlton ,South,-0.822578732392895
+Georgia ,Chatham ,South,-0.824594020770369
+Georgia ,Chattahoochee ,South,0.389334814164561
+Georgia ,Chattooga ,South,0.182450696762829
+Georgia ,Cherokee ,South,-0.274511914820773
+Georgia ,Clarke ,South,-1.37533327215985
+Georgia ,Clay ,South,-0.914620793002317
+Georgia ,Clayton ,South,-0.510037734915644
+Georgia ,Clinch ,South,-0.604822581827107
+Georgia ,Cobb ,South,-0.294343696367011
+Georgia ,Coffee ,South,1.45448676104353
+Georgia ,Colquitt ,South,1.49126182469626
+Georgia ,Columbia ,South,0.136254345513341
+Georgia ,Cook ,South,0.27301367161725
+Georgia ,Coweta ,South,-0.242647388432242
+Georgia ,Crawford ,South,0.873486331795469
+Georgia ,Crisp ,South,0.204199069819975
+Georgia ,Dade ,South,0.153157752266497
+Georgia ,Dawson ,South,-0.634312685172966
+Georgia ,Decatur ,South,-0.939975501184137
+Georgia ,DeKalb ,South,-0.448864237054363
+Georgia ,Dodge ,South,0.694552146303487
+Georgia ,Dooly ,South,-0.165301903256289
+Georgia ,Dougherty ,South,-0.652728483486144
+Georgia ,Douglas ,South,1.30312035519968
+Georgia ,Early ,South,-0.289564539636661
+Georgia ,Echols ,South,0.407293176843185
+Georgia ,Effingham ,South,0.96984464023384
+Georgia ,Elbert ,South,0.511354318777566
+Georgia ,Emanuel ,South,0.295775375526727
+Georgia ,Evans ,South,0.478719087808756
+Georgia ,Fannin ,South,-0.483405283896118
+Georgia ,Fayette ,South,0.092894539156308
+Georgia ,Floyd ,South,-0.067423371247884
+Georgia ,Forsyth ,South,-0.178321201877791
+Georgia ,Franklin ,South,0.677477846436211
+Georgia ,Fulton ,South,-0.169150712549001
+Georgia ,Gilmer ,South,-0.306502311811705
+Georgia ,Glascock ,South,0.054958691434649
+Georgia ,Glynn ,South,-1.83945417974092
+Georgia ,Gordon ,South,-0.175256648280098
+Georgia ,Grady ,South,0.46513069343387
+Georgia ,Greene ,South,-0.971914331811049
+Georgia ,Gwinnett ,South,0.040392272518727
+Georgia ,Habersham ,South,0.676135840655833
+Georgia ,Hall ,South,-0.184237425719165
+Georgia ,Hancock ,South,0.424200166907662
+Georgia ,Haralson ,South,1.12928815048389
+Georgia ,Harris ,South,-0.01743807161193
+Georgia ,Hart ,South,0.36021433466679
+Georgia ,Heard ,South,0.631558061867705
+Georgia ,Henry ,South,0.521925049923276
+Georgia ,Houston ,South,0.710116022047377
+Georgia ,Irwin ,South,0.781715095381919
+Georgia ,Jackson ,South,0.376324762495247
+Georgia ,Jasper ,South,-0.504987497858249
+Georgia ,Jeff Davis ,South,0.919048018091288
+Georgia ,Jefferson ,South,-0.087909284530175
+Georgia ,Jenkins ,South,0.341791663352813
+Georgia ,Johnson ,South,0.410876691405998
+Georgia ,Jones ,South,-0.340950819915607
+Georgia ,Lamar ,South,-1.16912621752379
+Georgia ,Lanier ,South,0.910069344153209
+Georgia ,Laurens ,South,-0.011922644169502
+Georgia ,Lee ,South,-0.379331974654354
+Georgia ,Liberty ,South,-0.350867999252461
+Georgia ,Lincoln ,South,0.168278159327476
+Georgia ,Long ,South,0.198953379896339
+Georgia ,Lowndes ,South,0.217269569639646
+Georgia ,Lumpkin ,South,0.366307444096958
+Georgia ,Macon ,South,-0.525352935726867
+Georgia ,Madison ,South,0.31617486590787
+Georgia ,Marion ,South,0.589188920720427
+Georgia ,McDuffie ,South,0.790347417401375
+Georgia ,McIntosh ,South,-2.09740384322072
+Georgia ,Meriwether ,South,0.111851049249447
+Georgia ,Miller ,South,-1.12729297873375
+Georgia ,Mitchell ,South,-0.012522399845384
+Georgia ,Monroe ,South,-0.640849168659963
+Georgia ,Montgomery ,South,-0.578271979088277
+Georgia ,Morgan ,South,-0.936384197867577
+Georgia ,Murray ,South,-0.87274958193359
+Georgia ,Muscogee ,South,-0.097007412942446
+Georgia ,Newton ,South,0.919302572105532
+Georgia ,Oconee ,South,-1.5532869940088
+Georgia ,Oglethorpe ,South,-0.815919153272942
+Georgia ,Paulding ,South,1.36532513075959
+Georgia ,Peach ,South,0.628832881875076
+Georgia ,Pickens ,South,-0.199622894582088
+Georgia ,Pierce ,South,1.22833985182729
+Georgia ,Pike ,South,0.906899649310137
+Georgia ,Polk ,South,1.20400343929633
+Georgia ,Pulaski ,South,0.848666172734458
+Georgia ,Putnam ,South,0.171439415616603
+Georgia ,Quitman ,South,-0.543720961529419
+Georgia ,Rabun ,South,-1.25984723702289
+Georgia ,Randolph ,South,0.257240138236029
+Georgia ,Richmond ,South,-0.221480773036707
+Georgia ,Rockdale ,South,0.386438214853441
+Georgia ,Schley ,South,-0.924508686638261
+Georgia ,Screven ,South,0.066671547567151
+Georgia ,Seminole ,South,-0.205309469731427
+Georgia ,Spalding ,South,0.742844810958242
+Georgia ,Stephens ,South,0.955814456127226
+Georgia ,Stewart ,South,-0.74843887642973
+Georgia ,Sumter ,South,0.095970199727221
+Georgia ,Talbot ,South,0.336633757381072
+Georgia ,Taliaferro ,South,-0.44359013031127
+Georgia ,Tattnall ,South,0.152149226960595
+Georgia ,Taylor ,South,0.237030207000532
+Georgia ,Telfair ,South,0.629197272597016
+Georgia ,Terrell ,South,0.44432542447616
+Georgia ,Thomas ,South,0.816943025341999
+Georgia ,Tift ,South,0.193737150506912
+Georgia ,Toombs ,South,0.692771112914616
+Georgia ,Towns ,South,-0.928509172299603
+Georgia ,Treutlen ,South,0.535181703491565
+Georgia ,Troup ,South,0.114674649702401
+Georgia ,Turner ,South,-0.716156759160691
+Georgia ,Twiggs ,South,-0.034718648735083
+Georgia ,Union ,South,-0.602386469188233
+Georgia ,Upson ,South,0.541424415014119
+Georgia ,Walker ,South,0.489077308193917
+Georgia ,Walton ,South,0.203988244493399
+Georgia ,Ware ,South,0.803165817659781
+Georgia ,Warren ,South,0.2984290913298
+Georgia ,Washington  ,South,-0.003994954002912
+Georgia ,Wayne ,South,0.982795876667822
+Georgia ,Webster ,South,0.219047282427253
+Georgia ,Wheeler ,South,1.04149999805464
+Georgia ,White ,South,0.066468278629955
+Georgia ,Whitfield ,South,0.554867942075796
+Georgia ,Wilcox ,South,0.574565004086423
+Georgia ,Wilkes ,South,0.596474396121786
+Georgia ,Wilkinson ,South,0.756003077583892
+Georgia ,Worth ,South,0.378438755200655
+Idaho ,Ada ,West,-0.208142896090332
+Idaho ,Adams ,West,-0.510469513797179
+Idaho ,Bannock ,West,1.09066954985916
+Idaho ,Bear Lake ,West,0.818663309226314
+Idaho ,Benewah ,West,0.210231532335948
+Idaho ,Bingham ,West,1.5911266897128
+Idaho ,Blaine ,West,-0.098857418038978
+Idaho ,Boise ,West,-0.260401105622139
+Idaho ,Bonner ,West,0.428785532468899
+Idaho ,Bonneville ,West,1.13628558807683
+Idaho ,Boundary ,West,0.252581816396874
+Idaho ,Butte ,West,0.164009689660986
+Idaho ,Camas ,West,-0.065779633135822
+Idaho ,Canyon ,West,0.41843142731993
+Idaho ,Caribou ,West,1.2438911767854
+Idaho ,Cassia ,West,0.033742990339847
+Idaho ,Clark ,West,0.007818427076543
+Idaho ,Clearwater ,West,0.944942052873905
+Idaho ,Custer ,West,-0.565448106709895
+Idaho ,Elmore ,West,0.31738980197697
+Idaho ,Franklin ,West,1.88634539276116
+Idaho ,Fremont ,West,-0.147713991130914
+Idaho ,Gem ,West,1.15756453452185
+Idaho ,Gooding ,West,0.430383708184367
+Idaho ,Idaho  ,West,0.183657474862981
+Idaho ,Jefferson ,West,0.249720815086709
+Idaho ,Jerome ,West,1.72459778157835
+Idaho ,Kootenai ,West,0.660681399140817
+Idaho ,Latah ,West,-0.918248150294782
+Idaho ,Lemhi ,West,-0.162656078280266
+Idaho ,Lewis ,West,1.31006018396004
+Idaho ,Lincoln ,West,1.71093098084256
+Idaho ,Madison ,West,1.23545561747142
+Idaho ,Minidoka ,West,1.13631509890453
+Idaho ,Nez Perce ,West,0.076905198917789
+Idaho ,Oneida ,West,0.609358071297125
+Idaho ,Owyhee ,West,-0.548020923912647
+Idaho ,Payette ,West,0.903504170726876
+Idaho ,Power ,West,0.39958093592407
+Idaho ,Shoshone ,West,0.538551544625251
+Idaho ,Teton ,West,0.42121116843021
+Idaho ,Twin Falls ,West,0.539289982397291
+Idaho ,Valley ,West,-0.682227742150477
+Idaho ,Washington  ,West,0.999936543882814
+Illinois ,Adams ,Midwest,0.410539896790607
+Illinois ,Alexander ,Midwest,-0.680666867000831
+Illinois ,Bond ,Midwest,0.267776704253734
+Illinois ,Boone ,Midwest,0.294318495746976
+Illinois ,Brown ,Midwest,0.183054705877494
+Illinois ,Bureau ,Midwest,-0.009871900403381
+Illinois ,Calhoun ,Midwest,-0.587482560015196
+Illinois ,Carroll ,Midwest,-0.667058371992642
+Illinois ,Cass ,Midwest,0.375371979489576
+Illinois ,Champaign ,Midwest,-0.474666184749767
+Illinois ,Christian ,Midwest,0.829013902606804
+Illinois ,Clark ,Midwest,0.658516910110287
+Illinois ,Clay ,Midwest,1.90583080177676
+Illinois ,Clinton ,Midwest,-0.885317586677095
+Illinois ,Coles ,Midwest,-0.699587402752204
+Illinois ,Cook ,Midwest,-0.524165654174
+Illinois ,Crawford ,Midwest,1.89116256162253
+Illinois ,Cumberland ,Midwest,0.661692388514983
+Illinois ,DeKalb ,Midwest,0.169040533093291
+Illinois ,DeWitt ,Midwest,-0.460893451411837
+Illinois ,Douglas ,Midwest,0.279146121916046
+Illinois ,DuPage ,Midwest,-0.783491889203331
+Illinois ,Edgar ,Midwest,1.08123169177158
+Illinois ,Edwards ,Midwest,0.392067668383413
+Illinois ,Effingham ,Midwest,0.970127610179326
+Illinois ,Fayette ,Midwest,0.43424788465075
+Illinois ,Ford ,Midwest,0.453832021004098
+Illinois ,Franklin ,Midwest,0.499515381590521
+Illinois ,Fulton ,Midwest,-0.446735065313315
+Illinois ,Gallatin ,Midwest,0.767525693429915
+Illinois ,Greene ,Midwest,1.18808415818016
+Illinois ,Grundy ,Midwest,-0.185249159483817
+Illinois ,Hamilton ,Midwest,1.07991854310871
+Illinois ,Hancock ,Midwest,0.577009473223095
+Illinois ,Hardin ,Midwest,0.421383653143377
+Illinois ,Henderson ,Midwest,0.157549544761384
+Illinois ,Henry ,Midwest,0.143778503657948
+Illinois ,Iroquois ,Midwest,0.36357749355605
+Illinois ,Jackson ,Midwest,-0.783424641299836
+Illinois ,Jasper ,Midwest,-0.259353249253944
+Illinois ,Jefferson ,Midwest,0.420705538691455
+Illinois ,Jersey ,Midwest,0.273685778390672
+Illinois ,Jo Daviess ,Midwest,0.146777039095158
+Illinois ,Johnson ,Midwest,-0.711060045045491
+Illinois ,Kane ,Midwest,-0.531113455237588
+Illinois ,Kankakee ,Midwest,-0.614725654083744
+Illinois ,Kendall ,Midwest,-0.261788077452746
+Illinois ,Knox ,Midwest,0.587084396108967
+Illinois ,Lake ,Midwest,-0.849142211358269
+Illinois ,LaSalle ,Midwest,-0.040780656394715
+Illinois ,Lawrence ,Midwest,1.42184038594215
+Illinois ,Lee ,Midwest,-0.085689892112558
+Illinois ,Livingston ,Midwest,0.618273330170428
+Illinois ,Logan ,Midwest,0.77112611353793
+Illinois ,Macon ,Midwest,0.954040028067365
+Illinois ,Macoupin ,Midwest,1.45200785769109
+Illinois ,Madison ,Midwest,-0.036569688735427
+Illinois ,Marion ,Midwest,0.872771354410712
+Illinois ,Marshall ,Midwest,-0.171889514995408
+Illinois ,Mason ,Midwest,-1.19372951052081
+Illinois ,Massac ,Midwest,-0.226648449711741
+Illinois ,McDonough ,Midwest,0.881016975481009
+Illinois ,McHenry ,Midwest,-0.340780010521487
+Illinois ,McLean ,Midwest,-0.346479213185166
+Illinois ,Menard ,Midwest,-0.906964486452124
+Illinois ,Mercer ,Midwest,0.810913989019084
+Illinois ,Monroe ,Midwest,0.445293927347639
+Illinois ,Montgomery ,Midwest,1.06319615468778
+Illinois ,Morgan ,Midwest,0.356339072327763
+Illinois ,Moultrie ,Midwest,0.110451502094163
+Illinois ,Ogle ,Midwest,0.182644338265937
+Illinois ,Peoria ,Midwest,0.27995666885328
+Illinois ,Perry ,Midwest,0.783552585923856
+Illinois ,Piatt ,Midwest,-0.302858490711763
+Illinois ,Pike ,Midwest,0.763930105168849
+Illinois ,Pope ,Midwest,-0.126533954186997
+Illinois ,Pulaski ,Midwest,-0.922558228224711
+Illinois ,Putnam ,Midwest,-1.09354309151101
+Illinois ,Randolph ,Midwest,0.413643538694907
+Illinois ,Richland ,Midwest,1.22842591153462
+Illinois ,Rock Island ,Midwest,0.332199664766595
+Illinois ,Saline ,Midwest,0.30070989164333
+Illinois ,Sangamon ,Midwest,0.013309641033848
+Illinois ,Schuyler ,Midwest,0.454249455463597
+Illinois ,Scott ,Midwest,0.611970243488287
+Illinois ,Shelby ,Midwest,0.668423276872435
+Illinois ,St. Clair ,Midwest,-0.365833316153472
+Illinois ,Stark ,Midwest,0.062191836548223
+Illinois ,Stephenson ,Midwest,0.825541801095887
+Illinois ,Tazewell ,Midwest,-0.413483863368777
+Illinois ,Union ,Midwest,-0.538105190103115
+Illinois ,Vermilion ,Midwest,0.575222313722044
+Illinois ,Wabash ,Midwest,1.32996780939415
+Illinois ,Warren ,Midwest,1.09655085177009
+Illinois ,Washington  ,Midwest,0.892230987161441
+Illinois ,Wayne ,Midwest,1.48905982391561
+Illinois ,White ,Midwest,-0.226794258824941
+Illinois ,Whiteside ,Midwest,0.317067112916591
+Illinois ,Will ,Midwest,-0.146208753623025
+Illinois ,Williamson ,Midwest,-0.706487273658287
+Illinois ,Winnebago ,Midwest,-0.14180545317868
+Illinois ,Woodford ,Midwest,-0.732158951167812
+Indiana ,Adams ,Midwest,1.34706225747248
+Indiana ,Allen ,Midwest,0.437643246585097
+Indiana ,Bartholomew ,Midwest,0.870393477665022
+Indiana ,Benton ,Midwest,-0.409355995489034
+Indiana ,Blackford ,Midwest,0.542418924504202
+Indiana ,Boone ,Midwest,-0.444967664820614
+Indiana ,Brown ,Midwest,-0.863223035182726
+Indiana ,Carroll ,Midwest,1.09226972919005
+Indiana ,Cass ,Midwest,0.155165051117008
+Indiana ,Clark ,Midwest,0.499381802180119
+Indiana ,Clay ,Midwest,0.722532614309908
+Indiana ,Clinton ,Midwest,1.2463147633306
+Indiana ,Crawford ,Midwest,0.363834500993559
+Indiana ,Daviess ,Midwest,0.750684606521053
+Indiana ,Dearborn ,Midwest,0.191702696582625
+Indiana ,Decatur ,Midwest,0.839939530125009
+Indiana ,DeKalb ,Midwest,1.01183388404508
+Indiana ,Delaware  ,Midwest,0.345619105017584
+Indiana ,Dubois ,Midwest,0.846638353164898
+Indiana ,Elkhart ,Midwest,-0.551638599201135
+Indiana ,Fayette ,Midwest,0.646199282490826
+Indiana ,Floyd ,Midwest,0.583765599099981
+Indiana ,Fountain ,Midwest,0.859403929260148
+Indiana ,Franklin ,Midwest,0.241512829726674
+Indiana ,Fulton ,Midwest,1.27749948225032
+Indiana ,Gibson ,Midwest,-0.875851917442346
+Indiana ,Grant ,Midwest,0.224099855749052
+Indiana ,Greene ,Midwest,-1.29714480325783
+Indiana ,Hamilton ,Midwest,0.247750481319687
+Indiana ,Hancock ,Midwest,0.167155456995884
+Indiana ,Harrison ,Midwest,-0.756609114301454
+Indiana ,Hendricks ,Midwest,0.811769593867906
+Indiana ,Henry ,Midwest,0.552002582197143
+Indiana ,Howard ,Midwest,1.98304352391971
+Indiana ,Huntington ,Midwest,-0.065370117479357
+Indiana ,Jackson ,Midwest,-0.400225614407383
+Indiana ,Jasper ,Midwest,0.617861647941155
+Indiana ,Jay ,Midwest,0.745940927965001
+Indiana ,Jefferson ,Midwest,0.943380057902765
+Indiana ,Jennings ,Midwest,0.751529844584389
+Indiana ,Johnson ,Midwest,0.210745262956061
+Indiana ,Knox ,Midwest,0.337836505326095
+Indiana ,Kosciusko ,Midwest,0.319921944121878
+Indiana ,LaGrange ,Midwest,-0.607062727151277
+Indiana ,Lake ,Midwest,0.203190065581816
+Indiana ,LaPorte ,Midwest,-0.067873462261114
+Indiana ,Lawrence ,Midwest,-0.021827235734949
+Indiana ,Madison ,Midwest,0.698790939101668
+Indiana ,Marion ,Midwest,0.054249057655493
+Indiana ,Marshall ,Midwest,0.926065281411226
+Indiana ,Martin ,Midwest,0.280624456605284
+Indiana ,Miami ,Midwest,0.638095423509944
+Indiana ,Monroe ,Midwest,-0.801248449616998
+Indiana ,Montgomery ,Midwest,0.194341394372718
+Indiana ,Morgan ,Midwest,0.614054395671342
+Indiana ,Newton ,Midwest,-1.26929462840717
+Indiana ,Noble ,Midwest,-0.265705001508949
+Indiana ,Ohio  ,Midwest,0.989376432145996
+Indiana ,Orange ,Midwest,0.162667145299775
+Indiana ,Owen ,Midwest,0.335345834142702
+Indiana ,Parke ,Midwest,0.125037104176411
+Indiana ,Perry ,Midwest,0.881334280511488
+Indiana ,Pike ,Midwest,-0.32978459795864
+Indiana ,Porter ,Midwest,-0.539357171650211
+Indiana ,Posey ,Midwest,0.499661645795413
+Indiana ,Pulaski ,Midwest,0.405757779163317
+Indiana ,Putnam ,Midwest,-0.027434266163218
+Indiana ,Randolph ,Midwest,1.67174199916743
+Indiana ,Ripley ,Midwest,0.929378703848775
+Indiana ,Rush ,Midwest,1.59196050861463
+Indiana ,Scott ,Midwest,0.417022143037326
+Indiana ,Shelby ,Midwest,1.46088128680349
+Indiana ,Spencer ,Midwest,0.293330443963514
+Indiana ,St. Joseph ,Midwest,-0.258687230689634
+Indiana ,Starke ,Midwest,0.218843270548795
+Indiana ,Steuben ,Midwest,-0.117151212379798
+Indiana ,Sullivan ,Midwest,-0.38411945026918
+Indiana ,Switzerland ,Midwest,1.43094255545462
+Indiana ,Tippecanoe ,Midwest,-0.956922548457948
+Indiana ,Tipton ,Midwest,1.30201030858559
+Indiana ,Union ,Midwest,-1.17167403065776
+Indiana ,Vanderburgh ,Midwest,0.27180959687493
+Indiana ,Vermillion ,Midwest,0.167174821104033
+Indiana ,Vigo ,Midwest,0.209707860375761
+Indiana ,Wabash ,Midwest,0.614109446100332
+Indiana ,Warren ,Midwest,0.235039186447387
+Indiana ,Warrick ,Midwest,-0.702450054511307
+Indiana ,Washington  ,Midwest,1.1152500237792
+Indiana ,Wayne ,Midwest,0.422095666708076
+Indiana ,Wells ,Midwest,0.672361420292682
+Indiana ,White ,Midwest,0.278575033832377
+Indiana ,Whitley ,Midwest,1.06334948722303
+Iowa ,Adair ,Midwest,0.540817899330763
+Iowa ,Adams ,Midwest,0.979661335295582
+Iowa ,Allamakee ,Midwest,-0.267432523403792
+Iowa ,Appanoose ,Midwest,0.388785034322189
+Iowa ,Audubon ,Midwest,1.18226551198245
+Iowa ,Benton ,Midwest,0.839682967337771
+Iowa ,Black Hawk ,Midwest,-0.084119312502289
+Iowa ,Boone ,Midwest,0.307273723725008
+Iowa ,Bremer ,Midwest,0.198969636811485
+Iowa ,Buchanan ,Midwest,0.804892120195418
+Iowa ,Buena Vista ,Midwest,1.48274928318269
+Iowa ,Butler ,Midwest,0.299883126954562
+Iowa ,Calhoun ,Midwest,0.496730071136794
+Iowa ,Carroll ,Midwest,0.495541739249983
+Iowa ,Cass ,Midwest,0.438120698964599
+Iowa ,Cedar ,Midwest,0.752563531010147
+Iowa ,Cerro Gordo ,Midwest,0.895451543942597
+Iowa ,Cherokee ,Midwest,1.29478643831309
+Iowa ,Chickasaw ,Midwest,1.36027636774138
+Iowa ,Clarke ,Midwest,1.03769387792242
+Iowa ,Clay ,Midwest,0.552702677129036
+Iowa ,Clayton ,Midwest,0.168107058988394
+Iowa ,Clinton ,Midwest,1.4841061926684
+Iowa ,Crawford ,Midwest,1.97618126642268
+Iowa ,Dallas ,Midwest,0.198150449870031
+Iowa ,Davis ,Midwest,1.44311295284674
+Iowa ,Decatur ,Midwest,0.431508432428373
+Iowa ,Delaware  ,Midwest,1.45914680756314
+Iowa ,Des Moines ,Midwest,0.434036875574633
+Iowa ,Dickinson ,Midwest,-0.159243973125703
+Iowa ,Dubuque ,Midwest,0.120115720933201
+Iowa ,Emmet ,Midwest,0.953071038601346
+Iowa ,Fayette ,Midwest,1.01186975466352
+Iowa ,Floyd ,Midwest,0.937274981059522
+Iowa ,Franklin ,Midwest,1.10417802247677
+Iowa ,Fremont ,Midwest,-0.202963053281182
+Iowa ,Greene ,Midwest,-0.286307539441099
+Iowa ,Grundy ,Midwest,1.18292817286768
+Iowa ,Guthrie ,Midwest,0.558940619395313
+Iowa ,Hamilton ,Midwest,0.680230540230665
+Iowa ,Hancock ,Midwest,0.724423953043624
+Iowa ,Hardin ,Midwest,0.678221933713643
+Iowa ,Harrison ,Midwest,-0.255917605012293
+Iowa ,Henry ,Midwest,1.27703775094851
+Iowa ,Howard ,Midwest,0.977202302049606
+Iowa ,Humboldt ,Midwest,1.69085569775361
+Iowa ,Ida ,Midwest,1.04083920794283
+Iowa ,Iowa  ,Midwest,0.262869228025102
+Iowa ,Jackson ,Midwest,0.077002517062547
+Iowa ,Jasper ,Midwest,0.022624844183044
+Iowa ,Jefferson ,Midwest,-0.635217641212979
+Iowa ,Johnson ,Midwest,-0.657727115004218
+Iowa ,Jones ,Midwest,1.02298479650765
+Iowa ,Keokuk ,Midwest,1.05695455073122
+Iowa ,Kossuth ,Midwest,0.786500675861713
+Iowa ,Lee ,Midwest,0.590144136052874
+Iowa ,Linn ,Midwest,-0.163969171575911
+Iowa ,Louisa ,Midwest,-0.227350225054256
+Iowa ,Lucas ,Midwest,-0.382287120301227
+Iowa ,Lyon ,Midwest,1.21068223317429
+Iowa ,Madison ,Midwest,0.002885688015955
+Iowa ,Mahaska ,Midwest,1.77063854022453
+Iowa ,Marion ,Midwest,-0.026503854742023
+Iowa ,Marshall ,Midwest,0.956650838490496
+Iowa ,Mills ,Midwest,0.802911752129483
+Iowa ,Mitchell ,Midwest,2.1012047192581
+Iowa ,Monona ,Midwest,0.361869455604135
+Iowa ,Monroe ,Midwest,0.728223342259492
+Iowa ,Montgomery ,Midwest,1.780742900555
+Iowa ,Muscatine ,Midwest,0.863710662502885
+Iowa ,O'Brien ,Midwest,1.21640685033962
+Iowa ,Osceola ,Midwest,1.5555167849336
+Iowa ,Page ,Midwest,1.93136023869506
+Iowa ,Palo Alto ,Midwest,0.905890686965413
+Iowa ,Plymouth ,Midwest,1.26909016944937
+Iowa ,Pocahontas ,Midwest,0.218580901142032
+Iowa ,Polk ,Midwest,-0.192587658528435
+Iowa ,Pottawattamie ,Midwest,0.342023850865361
+Iowa ,Poweshiek ,Midwest,-0.069395040137335
+Iowa ,Ringgold ,Midwest,0.019607327615201
+Iowa ,Sac ,Midwest,0.464038600876131
+Iowa ,Scott ,Midwest,0.463268188657207
+Iowa ,Shelby ,Midwest,1.25105529657008
+Iowa ,Sioux ,Midwest,0.663074130733101
+Iowa ,Story ,Midwest,-0.253021865903255
+Iowa ,Tama ,Midwest,0.341730890263762
+Iowa ,Taylor ,Midwest,1.28932622030682
+Iowa ,Union ,Midwest,0.92020365997109
+Iowa ,Van Buren ,Midwest,-0.059143054324641
+Iowa ,Wapello ,Midwest,1.63726440659963
+Iowa ,Warren ,Midwest,0.57543371082461
+Iowa ,Washington  ,Midwest,0.71543467532769
+Iowa ,Wayne ,Midwest,0.379320660453318
+Iowa ,Webster ,Midwest,1.7416111907919
+Iowa ,Winnebago ,Midwest,-0.133751512093269
+Iowa ,Winneshiek ,Midwest,0.156669977136656
+Iowa ,Woodbury ,Midwest,0.746728285503907
+Iowa ,Worth ,Midwest,0.632054331342327
+Iowa ,Wright ,Midwest,1.56407272745953
+Kansas ,Allen ,Midwest,0.320461991899008
+Kansas ,Anderson ,Midwest,0.080734081729999
+Kansas ,Atchison ,Midwest,0.051537925241957
+Kansas ,Barber ,Midwest,-0.221320453204906
+Kansas ,Barton ,Midwest,-0.910092237203335
+Kansas ,Bourbon ,Midwest,0.624707282249097
+Kansas ,Brown ,Midwest,-0.529877737061154
+Kansas ,Butler ,Midwest,0.336518481249348
+Kansas ,Chase ,Midwest,-0.935510126990275
+Kansas ,Chautauqua ,Midwest,-0.031689320039126
+Kansas ,Cherokee ,Midwest,0.140823300628802
+Kansas ,Cheyenne ,Midwest,-1.27682027025412
+Kansas ,Clark ,Midwest,-0.798680873920129
+Kansas ,Clay ,Midwest,0.02121986240928
+Kansas ,Cloud ,Midwest,0.414932113054716
+Kansas ,Coffey ,Midwest,-0.723042846049416
+Kansas ,Comanche ,Midwest,-1.04206318000826
+Kansas ,Cowley ,Midwest,0.436236853555185
+Kansas ,Crawford ,Midwest,0.462435410758925
+Kansas ,Decatur ,Midwest,0.478444824446298
+Kansas ,Dickinson ,Midwest,0.614934961423246
+Kansas ,Doniphan ,Midwest,0.495449182004316
+Kansas ,Douglas ,Midwest,-1.00686405149388
+Kansas ,Edwards ,Midwest,-0.380102984780544
+Kansas ,Elk ,Midwest,0.107255101683501
+Kansas ,Ellis ,Midwest,-0.244033771607906
+Kansas ,Ellsworth ,Midwest,-0.987268156111995
+Kansas ,Finney ,Midwest,0.21262929805516
+Kansas ,Ford ,Midwest,-0.112516616399863
+Kansas ,Franklin ,Midwest,0.24366301333619
+Kansas ,Geary ,Midwest,0.07607669834664
+Kansas ,Gove ,Midwest,-0.406241447473566
+Kansas ,Graham ,Midwest,0.371649528479219
+Kansas ,Grant ,Midwest,0.144654047721579
+Kansas ,Gray ,Midwest,-0.141596650989235
+Kansas ,Greeley ,Midwest,-0.328365569154381
+Kansas ,Greenwood ,Midwest,0.194161363662615
+Kansas ,Hamilton ,Midwest,-0.300859783991815
+Kansas ,Harper ,Midwest,-0.166676223262685
+Kansas ,Harvey ,Midwest,-0.588735918450605
+Kansas ,Haskell ,Midwest,-0.00219980438639
+Kansas ,Hodgeman ,Midwest,-1.03466468650816
+Kansas ,Jackson ,Midwest,-0.405266797091657
+Kansas ,Jefferson ,Midwest,-0.665971693039556
+Kansas ,Jewell ,Midwest,-0.204367421923389
+Kansas ,Johnson ,Midwest,-0.414741273631993
+Kansas ,Kearny ,Midwest,0.093172848354514
+Kansas ,Kingman ,Midwest,-0.008603076338995
+Kansas ,Kiowa ,Midwest,-1.6340991348562
+Kansas ,Labette ,Midwest,0.404432320593139
+Kansas ,Lane ,Midwest,-0.288337294003489
+Kansas ,Leavenworth ,Midwest,-0.182040518954442
+Kansas ,Lincoln ,Midwest,-0.381833157122642
+Kansas ,Linn ,Midwest,-0.974360540116089
+Kansas ,Logan ,Midwest,-0.394542197781835
+Kansas ,Lyon ,Midwest,0.097622302318304
+Kansas ,Marion ,Midwest,-0.398121689149336
+Kansas ,Marshall ,Midwest,0.987637220090051
+Kansas ,McPherson ,Midwest,0.329445471004841
+Kansas ,Meade ,Midwest,-0.142451315762332
+Kansas ,Miami ,Midwest,-0.342234258021307
+Kansas ,Mitchell ,Midwest,0.289341105739406
+Kansas ,Montgomery ,Midwest,1.01205844553263
+Kansas ,Morris ,Midwest,-0.109602314306247
+Kansas ,Morton ,Midwest,-1.76412460809147
+Kansas ,Nemaha ,Midwest,1.01121094921791
+Kansas ,Neosho ,Midwest,-0.70072725537404
+Kansas ,Ness ,Midwest,-0.151000512414885
+Kansas ,Norton ,Midwest,0.481294422671922
+Kansas ,Osage ,Midwest,-0.626190132555844
+Kansas ,Osborne ,Midwest,-1.13389645042983
+Kansas ,Ottawa ,Midwest,0.157107724450942
+Kansas ,Pawnee ,Midwest,-0.220989404489761
+Kansas ,Phillips ,Midwest,0.281379760692227
+Kansas ,Pottawatomie ,Midwest,-1.14493776206235
+Kansas ,Pratt ,Midwest,-0.18494936717336
+Kansas ,Rawlins ,Midwest,0.190563569046194
+Kansas ,Reno ,Midwest,-0.350578202916417
+Kansas ,Republic ,Midwest,0.252349313235272
+Kansas ,Rice ,Midwest,0.161652822068229
+Kansas ,Riley ,Midwest,-0.834167617725031
+Kansas ,Rooks ,Midwest,-0.711511024056028
+Kansas ,Rush ,Midwest,-0.190443905393109
+Kansas ,Russell ,Midwest,-1.12077502314328
+Kansas ,Saline ,Midwest,0.086522776990052
+Kansas ,Scott ,Midwest,-0.381722896082063
+Kansas ,Sedgwick ,Midwest,0.474642870253581
+Kansas ,Seward ,Midwest,0.923879818462234
+Kansas ,Shawnee ,Midwest,-0.247898551596107
+Kansas ,Sheridan ,Midwest,-0.519970188044095
+Kansas ,Sherman ,Midwest,-0.087758817930764
+Kansas ,Smith ,Midwest,0.065233726772169
+Kansas ,Stafford ,Midwest,-2.05142985806655
+Kansas ,Stanton ,Midwest,-1.45168970658036
+Kansas ,Stevens ,Midwest,0.044072370655555
+Kansas ,Sumner ,Midwest,0.215534110160256
+Kansas ,Thomas ,Midwest,0.28439761531557
+Kansas ,Trego ,Midwest,-0.5069278574161
+Kansas ,Wabaunsee ,Midwest,-0.63615755065415
+Kansas ,Wallace ,Midwest,-0.158065587530108
+Kansas ,Washington  ,Midwest,0.301910041936612
+Kansas ,Wichita ,Midwest,0.088698982965059
+Kansas ,Wilson ,Midwest,0.330932382687387
+Kansas ,Woodson ,Midwest,-0.222321903909688
+Kansas ,Wyandotte ,Midwest,0.72235729092554
+Kentucky ,Adair ,South,-0.065086553536204
+Kentucky ,Allen ,South,0.156012201669053
+Kentucky ,Anderson ,South,0.171014800886265
+Kentucky ,Ballard ,South,0.069625470748826
+Kentucky ,Barren ,South,-0.102597144072962
+Kentucky ,Bath ,South,0.474536537757056
+Kentucky ,Bell ,South,0.792976023605276
+Kentucky ,Boone ,South,0.408818555227733
+Kentucky ,Bourbon ,South,1.49598875083405
+Kentucky ,Boyd ,South,-0.84698168043658
+Kentucky ,Boyle ,South,0.543691696408251
+Kentucky ,Bracken ,South,0.964750541870033
+Kentucky ,Breathitt ,South,1.79633642805962
+Kentucky ,Breckinridge ,South,1.42091366942117
+Kentucky ,Bullitt ,South,0.124298494048626
+Kentucky ,Butler ,South,1.77497625332548
+Kentucky ,Caldwell ,South,1.61211339430482
+Kentucky ,Calloway ,South,0.083256342079648
+Kentucky ,Campbell ,South,0.383664270471853
+Kentucky ,Carlisle ,South,0.671355578696719
+Kentucky ,Carroll ,South,0.788729584478738
+Kentucky ,Carter ,South,0.677713395764874
+Kentucky ,Casey ,South,0.135875559754426
+Kentucky ,Christian ,South,0.390177335077925
+Kentucky ,Clark ,South,1.12891235979991
+Kentucky ,Clay ,South,2.53548360865533
+Kentucky ,Clinton ,South,1.11814886204007
+Kentucky ,Crittenden ,South,1.36161860332548
+Kentucky ,Cumberland ,South,0.818026830083543
+Kentucky ,Daviess ,South,1.10467395039072
+Kentucky ,Edmonson ,South,-0.583566276198183
+Kentucky ,Elliott ,South,1.31724528971356
+Kentucky ,Estill ,South,1.33185864004644
+Kentucky ,Fayette ,South,-0.335604082238126
+Kentucky ,Fleming ,South,1.2363128262211
+Kentucky ,Floyd ,South,2.32197512274912
+Kentucky ,Franklin ,South,-0.085895706262533
+Kentucky ,Fulton ,South,-1.17603822073671
+Kentucky ,Gallatin ,South,0.522882586151313
+Kentucky ,Garrard ,South,1.22908699720662
+Kentucky ,Grant ,South,0.529262791972094
+Kentucky ,Graves ,South,1.70904966034758
+Kentucky ,Grayson ,South,1.22468067247517
+Kentucky ,Green ,South,1.7744738765829
+Kentucky ,Greenup ,South,1.00466158345731
+Kentucky ,Hancock ,South,1.97680294606805
+Kentucky ,Hardin ,South,0.195482061733672
+Kentucky ,Harlan ,South,1.35898728971386
+Kentucky ,Harrison ,South,0.807148201722102
+Kentucky ,Hart ,South,-0.45108201487846
+Kentucky ,Henderson ,South,-0.733623640487713
+Kentucky ,Henry ,South,1.11252280102382
+Kentucky ,Hickman ,South,0.651779799527707
+Kentucky ,Hopkins ,South,0.128831385439869
+Kentucky ,Jackson ,South,1.19493395257907
+Kentucky ,Jefferson ,South,-0.272234553262068
+Kentucky ,Jessamine ,South,0.219755015096868
+Kentucky ,Johnson ,South,1.58885740377519
+Kentucky ,Kenton ,South,0.448463487380589
+Kentucky ,Knott ,South,1.95328580520794
+Kentucky ,Knox ,South,2.06404981497994
+Kentucky ,LaRue ,South,0.435036292180353
+Kentucky ,Laurel ,South,0.595369592876072
+Kentucky ,Lawrence ,South,1.51087104936926
+Kentucky ,Lee ,South,1.43952880933575
+Kentucky ,Leslie ,South,1.28339161833772
+Kentucky ,Letcher ,South,1.38339982516777
+Kentucky ,Lewis ,South,1.66950889176036
+Kentucky ,Lincoln ,South,0.352085374034043
+Kentucky ,Livingston ,South,-0.145122081637052
+Kentucky ,Logan ,South,0.459774478012342
+Kentucky ,Lyon ,South,-1.00005536954505
+Kentucky ,Madison ,South,-0.570633584306532
+Kentucky ,Magoffin ,South,2.55939902142113
+Kentucky ,Marion ,South,1.96726465741872
+Kentucky ,Marshall ,South,-0.712300669716725
+Kentucky ,Martin ,South,2.87213433558918
+Kentucky ,Mason ,South,0.766266570024975
+Kentucky ,McCracken ,South,0.728334349664299
+Kentucky ,McCreary ,South,0.348995328572444
+Kentucky ,McLean ,South,1.20318980853054
+Kentucky ,Meade ,South,1.51711560381643
+Kentucky ,Menifee ,South,0.553978540187455
+Kentucky ,Mercer ,South,0.221378527579343
+Kentucky ,Metcalfe ,South,0.308174012847337
+Kentucky ,Monroe ,South,1.03899329834114
+Kentucky ,Montgomery ,South,1.83104967146192
+Kentucky ,Morgan ,South,1.88521131130376
+Kentucky ,Muhlenberg ,South,0.1174247669186
+Kentucky ,Nelson ,South,0.419991307520015
+Kentucky ,Nicholas ,South,1.31356860892248
+Kentucky ,Ohio  ,South,0.936731589385557
+Kentucky ,Oldham ,South,-0.037433527137573
+Kentucky ,Owen ,South,0.754317934833905
+Kentucky ,Owsley ,South,2.1461638165995
+Kentucky ,Pendleton ,South,0.541304379832039
+Kentucky ,Perry ,South,2.12649830573629
+Kentucky ,Pike ,South,1.49921418577482
+Kentucky ,Powell ,South,0.252515075405301
+Kentucky ,Pulaski ,South,-1.13301310417115
+Kentucky ,Robertson ,South,0.781811551142976
+Kentucky ,Rockcastle ,South,0.691020618472601
+Kentucky ,Rowan ,South,-0.352882054016236
+Kentucky ,Russell ,South,-0.069987130212723
+Kentucky ,Scott ,South,0.589304105824598
+Kentucky ,Shelby ,South,0.010315988652896
+Kentucky ,Simpson ,South,1.06438437914711
+Kentucky ,Spencer ,South,0.620710931572673
+Kentucky ,Taylor ,South,0.579162932197371
+Kentucky ,Todd ,South,-0.472794476537912
+Kentucky ,Trigg ,South,-0.879720679966185
+Kentucky ,Trimble ,South,1.45823790392805
+Kentucky ,Union ,South,0.143672878638403
+Kentucky ,Warren ,South,0.429925581663516
+Kentucky ,Washington  ,South,0.894876930396727
+Kentucky ,Wayne ,South,-0.243995364671141
+Kentucky ,Webster ,South,1.66364068868277
+Kentucky ,Whitley ,South,0.837300662263933
+Kentucky ,Wolfe ,South,-0.009182765027469
+Kentucky ,Woodford ,South,0.717097210412207
+Louisiana ,Acadia ,South,0.349129787135539
+Louisiana ,Allen ,South,0.759388242184504
+Louisiana ,Ascension ,South,0.891989649645993
+Louisiana ,Assumption ,South,1.22982050894139
+Louisiana ,Avoyelles ,South,1.21958007077479
+Louisiana ,Beauregard ,South,0.706375909929505
+Louisiana ,Bienville ,South,1.14415899172572
+Louisiana ,Bossier ,South,0.571719311364838
+Louisiana ,Caddo ,South,-0.341395627230759
+Louisiana ,Calcasieu ,South,-0.071519146932157
+Louisiana ,Caldwell ,South,0.903450242326003
+Louisiana ,Cameron ,South,-3.05780972845943
+Louisiana ,Catahoula ,South,0.588525539477822
+Louisiana ,Claiborne ,South,-0.811355268195624
+Louisiana ,Concordia ,South,0.623620033619017
+Louisiana ,DeSoto ,South,-0.110037622962283
+Louisiana ,East Baton Rouge ,South,-0.341161217424745
+Louisiana ,East Carroll ,South,0.292121261820857
+Louisiana ,East Feliciana ,South,0.839127229581862
+Louisiana ,Evangeline ,South,0.356684377023591
+Louisiana ,Franklin ,South,1.39695885622757
+Louisiana ,Grant ,South,0.459530541239249
+Louisiana ,Iberia ,South,0.93755540850533
+Louisiana ,Iberville ,South,-0.635845115014427
+Louisiana ,Jackson ,South,0.674608486291745
+Louisiana ,Jefferson ,South,-0.274835437954496
+Louisiana ,Jefferson Davis ,South,-0.986963291145007
+Louisiana ,La Salle ,South,-0.488401112189
+Louisiana ,Lafayette ,South,0.186915207275451
+Louisiana ,Lafourche ,South,0.033818994553992
+Louisiana ,Lincoln ,South,0.720387717697051
+Louisiana ,Livingston ,South,1.04192645903294
+Louisiana ,Madison ,South,0.139067047383941
+Louisiana ,Morehouse ,South,0.396174417448035
+Louisiana ,Natchitoches ,South,0.311813276093876
+Louisiana ,Orleans ,South,-0.47305449965827
+Louisiana ,Ouachita ,South,0.067677435202772
+Louisiana ,Plaquemines ,South,-1.30831780086613
+Louisiana ,Pointe Coupee ,South,0.349170833027384
+Louisiana ,Rapides ,South,-0.262444240587596
+Louisiana ,Red River ,South,-0.368502850278711
+Louisiana ,Richland ,South,0.453278212177035
+Louisiana ,Sabine ,South,0.266885464829422
+Louisiana ,St. Bernard ,South,0.097483896079698
+Louisiana ,St. Charles ,South,0.113891645276561
+Louisiana ,St. Helena ,South,1.09149331183309
+Louisiana ,St. James ,South,0.226340842004456
+Louisiana ,St. John the Baptist ,South,-0.073944191043059
+Louisiana ,St. Landry ,South,0.832173905349515
+Louisiana ,St. Martin ,South,-0.635239911313857
+Louisiana ,St. Mary ,South,0.767008237327201
+Louisiana ,St. Tammany ,South,-0.71724809167764
+Louisiana ,Tangipahoa ,South,0.561673542645376
+Louisiana ,Tensas ,South,0.295100279432502
+Louisiana ,Terrebonne ,South,-0.008763657718646
+Louisiana ,Union ,South,-0.511131324765582
+Louisiana ,Vermilion ,South,-0.081000747552556
+Louisiana ,Vernon ,South,-0.025446091221265
+Louisiana ,Washington Parish ,South,0.176618358839897
+Louisiana ,Webster ,South,1.26119324786521
+Louisiana ,West Baton Rouge ,South,0.766465582391071
+Louisiana ,West Carroll ,South,0.724639534127331
+Louisiana ,West Feliciana ,South,0.129062600466467
+Louisiana ,Winn ,South,1.11409030930952
+Maine ,Androscoggin ,Northeast,0.915970050801405
+Maine ,Aroostook ,Northeast,0.332798677722314
+Maine ,Cumberland ,Northeast,-0.99975107820488
+Maine ,Franklin ,Northeast,0.181110564994638
+Maine ,Hancock ,Northeast,-1.48002383278357
+Maine ,Kennebec ,Northeast,-0.25927760295875
+Maine ,Knox ,Northeast,-0.663122019202812
+Maine ,Lincoln ,Northeast,-0.854491955806133
+Maine ,Oxford ,Northeast,0.048602855658886
+Maine ,Penobscot ,Northeast,-0.312424854305023
+Maine ,Piscataquis ,Northeast,-0.061951679560372
+Maine ,Sagadahoc ,Northeast,-0.635930124786024
+Maine ,Somerset ,Northeast,0.456993664123093
+Maine ,Waldo ,Northeast,-0.943383933071866
+Maine ,Washington  ,Northeast,-0.796164758622006
+Maine ,York ,Northeast,-0.963252318136229
+Maryland ,Allegany ,South,-1.18156027024748
+Maryland ,Anne Arundel ,South,-1.21817542715316
+Maryland ,Baltimore  ,South,-1.19069959668839
+Maryland ,Calvert ,South,-1.48785311754621
+Maryland ,Caroline ,South,-1.52956241671935
+Maryland ,Carroll ,South,-0.907173099982399
+Maryland ,Cecil ,South,-0.90354031911276
+Maryland ,Charles ,South,0.007085058879156
+Maryland ,Dorchester ,South,-2.19752757325435
+Maryland ,Frederick ,South,-1.25872723325116
+Maryland ,Garrett ,South,-2.12230963334144
+Maryland ,Harford ,South,-0.950711607071277
+Maryland ,Howard ,South,-1.6424903741088
+Maryland ,Kent ,South,-1.92813970350585
+Maryland ,Montgomery ,South,-1.15660246821419
+Maryland ,Prince George's ,South,-0.670839096441617
+Maryland ,Queen Anne's ,South,-2.01532231900517
+Maryland ,Somerset ,South,-1.54332321688271
+Maryland ,St. Mary's ,South,-1.10307063670861
+Maryland ,Talbot ,South,-2.3227206238665
+Maryland ,Washington  ,South,-0.758797598763568
+Maryland ,Wicomico ,South,-1.06872674818886
+Maryland ,Worcester ,South,-2.71245758520994
+Massachusetts ,Barnstable ,Northeast,-1.64530766088617
+Massachusetts ,Berkshire ,Northeast,-0.655931169630686
+Massachusetts ,Bristol ,Northeast,0.054905635642504
+Massachusetts ,Dukes ,Northeast,-0.523011674416469
+Massachusetts ,Essex ,Northeast,-1.25438520139689
+Massachusetts ,Franklin ,Northeast,-0.655369643969414
+Massachusetts ,Hampden ,Northeast,0.299690797884438
+Massachusetts ,Hampshire ,Northeast,-1.05923675878362
+Massachusetts ,Middlesex ,Northeast,-0.848736195781022
+Massachusetts ,Nantucket ,Northeast,-1.34232704652174
+Massachusetts ,Norfolk ,Northeast,-0.235814761472751
+Massachusetts ,Plymouth ,Northeast,-0.605529567100629
+Massachusetts ,Suffolk ,Northeast,-0.266513020686659
+Massachusetts ,Worcester ,Northeast,-0.238717353915353
+Michigan ,Alcona ,Midwest,-1.18538453625747
+Michigan ,Alger ,Midwest,-1.60374866693671
+Michigan ,Allegan ,Midwest,-0.959331482146988
+Michigan ,Alpena ,Midwest,-0.095014328798774
+Michigan ,Antrim ,Midwest,-0.883216228053424
+Michigan ,Arenac ,Midwest,-0.431023247403309
+Michigan ,Baraga ,Midwest,-1.16260795103074
+Michigan ,Barry ,Midwest,-1.36308041267893
+Michigan ,Bay ,Midwest,-0.957017448193518
+Michigan ,Benzie ,Midwest,-1.18773967607855
+Michigan ,Berrien ,Midwest,-0.943140938821943
+Michigan ,Branch ,Midwest,-0.147755827266461
+Michigan ,Calhoun ,Midwest,-0.51298065886138
+Michigan ,Cass ,Midwest,0.235602526060689
+Michigan ,Charlevoix ,Midwest,-1.31116024900964
+Michigan ,Cheboygan ,Midwest,-0.864681829875185
+Michigan ,Chippewa ,Midwest,-1.93806534556248
+Michigan ,Clare ,Midwest,0.09481718109666
+Michigan ,Clinton ,Midwest,-0.478352456954713
+Michigan ,Crawford ,Midwest,-1.68689012516308
+Michigan ,Delta ,Midwest,-0.516244117794358
+Michigan ,Dickinson ,Midwest,0.144514583374118
+Michigan ,Eaton ,Midwest,-0.1161803073835
+Michigan ,Emmet ,Midwest,-0.728885172755011
+Michigan ,Genesee ,Midwest,0.368964855305978
+Michigan ,Gladwin ,Midwest,0.479506240661794
+Michigan ,Gogebic ,Midwest,-0.228441079142926
+Michigan ,Grand Traverse ,Midwest,-1.0809926210434
+Michigan ,Gratiot ,Midwest,-0.430227667325446
+Michigan ,Hillsdale ,Midwest,-0.308513651061063
+Michigan ,Houghton ,Midwest,-0.833757510788928
+Michigan ,Huron ,Midwest,-0.747277855760308
+Michigan ,Ingham ,Midwest,-0.648881461132773
+Michigan ,Ionia ,Midwest,-0.11643977160659
+Michigan ,Iosco ,Midwest,-1.80761598843837
+Michigan ,Iron ,Midwest,-0.267341472095666
+Michigan ,Isabella ,Midwest,-1.01577847032045
+Michigan ,Jackson ,Midwest,-0.836417649541337
+Michigan ,Kalamazoo ,Midwest,-0.557487799418635
+Michigan ,Kalkaska ,Midwest,-0.870333025116984
+Michigan ,Kent ,Midwest,-0.682574124174652
+Michigan ,Keweenaw ,Midwest,-2.22143733547029
+Michigan ,Lake ,Midwest,-0.010295058129258
+Michigan ,Lapeer ,Midwest,-0.352106508394347
+Michigan ,Leelanau ,Midwest,-1.65994060037486
+Michigan ,Lenawee ,Midwest,-0.232937690014807
+Michigan ,Livingston ,Midwest,-0.508111596304741
+Michigan ,Luce ,Midwest,-1.0593941451462
+Michigan ,Mackinac ,Midwest,-1.32861939539404
+Michigan ,Macomb ,Midwest,-0.012931570933807
+Michigan ,Manistee ,Midwest,-1.46781460913706
+Michigan ,Marquette ,Midwest,-0.948497134218457
+Michigan ,Mason ,Midwest,-0.711249760854321
+Michigan ,Mecosta ,Midwest,0.094132299633098
+Michigan ,Menominee ,Midwest,0.298367668946394
+Michigan ,Midland ,Midwest,-0.949164340390698
+Michigan ,Missaukee ,Midwest,-0.207379331689496
+Michigan ,Monroe ,Midwest,-0.548333913664954
+Michigan ,Montcalm ,Midwest,0.392233209702545
+Michigan ,Montmorency ,Midwest,-0.070660456942552
+Michigan ,Muskegon ,Midwest,-0.554529197709417
+Michigan ,Newaygo ,Midwest,0.663873785751538
+Michigan ,Oakland ,Midwest,-0.30619853376422
+Michigan ,Oceana ,Midwest,-0.246440674785276
+Michigan ,Ogemaw ,Midwest,-0.577458558602742
+Michigan ,Ontonagon ,Midwest,-0.748609526398234
+Michigan ,Osceola ,Midwest,-0.321505419164898
+Michigan ,Oscoda ,Midwest,-0.81776647284438
+Michigan ,Otsego ,Midwest,-0.57307779060806
+Michigan ,Ottawa ,Midwest,-0.771956272757783
+Michigan ,Presque Isle ,Midwest,-0.181005964521784
+Michigan ,Roscommon ,Midwest,-0.945702115360915
+Michigan ,Saginaw ,Midwest,-0.255852261869388
+Michigan ,Sanilac ,Midwest,-0.101924652730213
+Michigan ,Schoolcraft ,Midwest,-1.26651481480299
+Michigan ,Shiawassee ,Midwest,0.503643313141223
+Michigan ,St. Clair ,Midwest,-0.27006430221382
+Michigan ,St. Joseph ,Midwest,-0.263464401810918
+Michigan ,Tuscola ,Midwest,-0.455990918122377
+Michigan ,Van Buren ,Midwest,-0.169554088361652
+Michigan ,Washtenaw ,Midwest,-1.41943264567184
+Michigan ,Wayne ,Midwest,0.253237708485904
+Michigan ,Wexford ,Midwest,-0.262093888522326
+Minnesota ,Aitkin ,Midwest,-0.724633424195133
+Minnesota ,Anoka ,Midwest,0.217647865373575
+Minnesota ,Becker ,Midwest,-0.498357518391755
+Minnesota ,Beltrami ,Midwest,0.095704550106802
+Minnesota ,Benton ,Midwest,0.47420172869413
+Minnesota ,Big Stone ,Midwest,-1.23505222382514
+Minnesota ,Blue Earth ,Midwest,0.503743071428493
+Minnesota ,Brown ,Midwest,0.409678882817591
+Minnesota ,Carlton ,Midwest,-0.341909219749212
+Minnesota ,Carver ,Midwest,-0.62318952973765
+Minnesota ,Cass ,Midwest,-0.62426067729726
+Minnesota ,Chippewa ,Midwest,0.384650120495321
+Minnesota ,Chisago ,Midwest,-0.360224295508432
+Minnesota ,Clay ,Midwest,-0.073750512715639
+Minnesota ,Clearwater ,Midwest,-0.524697865193387
+Minnesota ,Cook ,Midwest,-2.08276680234271
+Minnesota ,Cottonwood ,Midwest,-0.584645480800507
+Minnesota ,Crow Wing ,Midwest,-0.310562828569141
+Minnesota ,Dakota ,Midwest,-0.502872637967585
+Minnesota ,Dodge ,Midwest,0.732472537908618
+Minnesota ,Douglas ,Midwest,-0.085457687304357
+Minnesota ,Faribault ,Midwest,0.044645161675482
+Minnesota ,Fillmore ,Midwest,0.119809192086716
+Minnesota ,Freeborn ,Midwest,0.330713996896872
+Minnesota ,Goodhue ,Midwest,-0.610977011151223
+Minnesota ,Grant ,Midwest,-0.947763055456394
+Minnesota ,Hennepin ,Midwest,-0.568054875824251
+Minnesota ,Houston ,Midwest,-0.451158504023354
+Minnesota ,Hubbard ,Midwest,-0.326000320660006
+Minnesota ,Isanti ,Midwest,0.552257906210401
+Minnesota ,Itasca ,Midwest,0.027247044478017
+Minnesota ,Jackson ,Midwest,-0.415154915635179
+Minnesota ,Kanabec ,Midwest,0.620715036879345
+Minnesota ,Kandiyohi ,Midwest,-0.043699157448315
+Minnesota ,Kittson ,Midwest,-0.829796441954621
+Minnesota ,Koochiching ,Midwest,0.17089698977518
+Minnesota ,Lac qui Parle ,Midwest,-0.968289251950147
+Minnesota ,Lake ,Midwest,-2.09739206804464
+Minnesota ,Lake of the Woods ,Midwest,-0.426058928136945
+Minnesota ,Le Sueur ,Midwest,0.26515260411985
+Minnesota ,Lincoln ,Midwest,-0.214804965830759
+Minnesota ,Lyon ,Midwest,-0.28232679327801
+Minnesota ,Mahnomen ,Midwest,0.181980073372826
+Minnesota ,Marshall ,Midwest,-0.982468419630882
+Minnesota ,Martin ,Midwest,1.00482519191952
+Minnesota ,McLeod ,Midwest,0.408737576607451
+Minnesota ,Meeker ,Midwest,-0.005520799778945
+Minnesota ,Mille Lacs ,Midwest,0.208646429889309
+Minnesota ,Morrison ,Midwest,-0.482604930445961
+Minnesota ,Mower ,Midwest,0.368642708456431
+Minnesota ,Murray ,Midwest,0.131979826834152
+Minnesota ,Nicollet ,Midwest,0.48674534136418
+Minnesota ,Nobles ,Midwest,0.930506645956469
+Minnesota ,Norman ,Midwest,0.213759314802726
+Minnesota ,Olmsted ,Midwest,-0.529124419226603
+Minnesota ,Otter Tail ,Midwest,-0.001060562188062
+Minnesota ,Pennington ,Midwest,0.074541604705685
+Minnesota ,Pine ,Midwest,-0.558587763640378
+Minnesota ,Pipestone ,Midwest,-0.098672803362907
+Minnesota ,Polk ,Midwest,-0.886887173126856
+Minnesota ,Pope ,Midwest,-0.128615947435959
+Minnesota ,Ramsey ,Midwest,-0.093645852616142
+Minnesota ,Red Lake ,Midwest,-0.325412263462279
+Minnesota ,Redwood ,Midwest,0.632924150781761
+Minnesota ,Renville ,Midwest,0.420403400839416
+Minnesota ,Rice ,Midwest,-0.667888518566363
+Minnesota ,Rock ,Midwest,-0.064225093435899
+Minnesota ,Roseau ,Midwest,-0.41970400628154
+Minnesota ,Scott ,Midwest,-0.094882978492003
+Minnesota ,Sherburne ,Midwest,-0.012944156929448
+Minnesota ,Sibley ,Midwest,0.010485600343905
+Minnesota ,St. Louis  ,Midwest,-1.9034663805361
+Minnesota ,Stearns ,Midwest,0.253157705584505
+Minnesota ,Steele ,Midwest,-0.287727447998921
+Minnesota ,Stevens ,Midwest,-0.292579357068315
+Minnesota ,Swift ,Midwest,0.149055356009574
+Minnesota ,Todd ,Midwest,-0.332961640832961
+Minnesota ,Traverse ,Midwest,-0.339609380715319
+Minnesota ,Wabasha ,Midwest,-0.214918571609463
+Minnesota ,Wadena ,Midwest,0.572237856735059
+Minnesota ,Waseca ,Midwest,0.473763070707744
+Minnesota ,Washington  ,Midwest,-0.709954817000801
+Minnesota ,Watonwan ,Midwest,-0.220774410632038
+Minnesota ,Wilkin ,Midwest,-0.241934425218532
+Minnesota ,Winona ,Midwest,-0.083798845460284
+Minnesota ,Wright ,Midwest,0.299505569913221
+Minnesota ,Yellow Medicine ,Midwest,-0.276017699937919
+Mississippi ,Adams ,South,0.41437797856719
+Mississippi ,Alcorn ,South,1.59291796028098
+Mississippi ,Amite ,South,1.85737891651217
+Mississippi ,Attala ,South,1.61898217480992
+Mississippi ,Benton ,South,0.727422562326101
+Mississippi ,Bolivar ,South,1.27381051252805
+Mississippi ,Calhoun ,South,1.81800895453487
+Mississippi ,Carroll ,South,1.51932081057826
+Mississippi ,Chickasaw ,South,0.883362466219776
+Mississippi ,Choctaw ,South,0.709789570527924
+Mississippi ,Claiborne ,South,1.29994533640551
+Mississippi ,Clarke ,South,1.27147259911601
+Mississippi ,Clay ,South,1.15769088525453
+Mississippi ,Coahoma ,South,1.07401189758594
+Mississippi ,Copiah ,South,1.97213238041303
+Mississippi ,Covington ,South,0.99252933379372
+Mississippi ,DeSoto ,South,0.445762993364184
+Mississippi ,Forrest ,South,0.106235917540153
+Mississippi ,Franklin ,South,1.41515802768898
+Mississippi ,George ,South,0.970152435951485
+Mississippi ,Greene ,South,1.55950706098605
+Mississippi ,Grenada ,South,0.835599761426986
+Mississippi ,Hancock ,South,-0.786709930466946
+Mississippi ,Harrison ,South,-0.402661590381492
+Mississippi ,Hinds ,South,0.834503927970638
+Mississippi ,Holmes ,South,1.51280112015148
+Mississippi ,Humphreys ,South,0.21595540947739
+Mississippi ,Issaquena ,South,-0.374677399137046
+Mississippi ,Itawamba ,South,0.666949540480212
+Mississippi ,Jackson ,South,-1.14066296439989
+Mississippi ,Jasper ,South,1.54711880661917
+Mississippi ,Jefferson ,South,1.45980058065156
+Mississippi ,Jefferson Davis ,South,1.03945468536856
+Mississippi ,Jones ,South,1.59100066653927
+Mississippi ,Kemper ,South,1.02248273492908
+Mississippi ,Lafayette ,South,-0.082763079273585
+Mississippi ,Lamar ,South,0.745440468744304
+Mississippi ,Lauderdale ,South,0.543172040954899
+Mississippi ,Lawrence ,South,1.83160663488662
+Mississippi ,Leake ,South,2.37887753730708
+Mississippi ,Lee ,South,0.657652393141502
+Mississippi ,Leflore ,South,1.487241088163
+Mississippi ,Lincoln ,South,1.21391648464369
+Mississippi ,Lowndes ,South,-0.040899567342049
+Mississippi ,Madison ,South,0.255285280666166
+Mississippi ,Marion ,South,1.14061487410757
+Mississippi ,Marshall ,South,0.216260243013609
+Mississippi ,Monroe ,South,1.26124680623282
+Mississippi ,Montgomery ,South,1.25152311400945
+Mississippi ,Neshoba ,South,2.54829085080451
+Mississippi ,Newton ,South,1.85553596242627
+Mississippi ,Noxubee ,South,-1.05432473069089
+Mississippi ,Oktibbeha ,South,-0.622455248612753
+Mississippi ,Panola ,South,0.138424708213445
+Mississippi ,Pearl River ,South,0.352750770809978
+Mississippi ,Perry ,South,0.745122180807126
+Mississippi ,Pike ,South,1.73511457425419
+Mississippi ,Pontotoc ,South,1.46062490554203
+Mississippi ,Prentiss ,South,2.07690720619998
+Mississippi ,Quitman ,South,0.25864176840597
+Mississippi ,Rankin ,South,0.664408971860688
+Mississippi ,Scott ,South,1.33691297604268
+Mississippi ,Sharkey ,South,1.00471229536657
+Mississippi ,Simpson ,South,0.617601640976278
+Mississippi ,Smith ,South,2.30194144517408
+Mississippi ,Stone ,South,1.05058785565398
+Mississippi ,Sunflower ,South,1.35272106141993
+Mississippi ,Tallahatchie ,South,0.825840795055214
+Mississippi ,Tate ,South,1.08084027483767
+Mississippi ,Tippah ,South,2.4722946072022
+Mississippi ,Tishomingo ,South,-0.316921490823488
+Mississippi ,Tunica ,South,-0.507646870842006
+Mississippi ,Union ,South,2.44867966402541
+Mississippi ,Walthall ,South,1.67185493796977
+Mississippi ,Warren ,South,0.492850502319286
+Mississippi ,Washington  ,South,1.00360395583956
+Mississippi ,Wayne ,South,1.78784819554856
+Mississippi ,Webster ,South,1.08526243563583
+Mississippi ,Wilkinson ,South,0.806742261192384
+Mississippi ,Winston ,South,0.996873489336819
+Mississippi ,Yalobusha ,South,0.657053714016271
+Mississippi ,Yazoo ,South,1.20596755661328
+Missouri ,Adair ,Midwest,-0.208603794526219
+Missouri ,Andrew ,Midwest,0.89906325243268
+Missouri ,Atchison ,Midwest,0.126095784391408
+Missouri ,Audrain ,Midwest,1.0721982129922
+Missouri ,Barry ,Midwest,0.309079139165603
+Missouri ,Barton ,Midwest,-0.150907607950462
+Missouri ,Bates ,Midwest,0.62476193257197
+Missouri ,Benton ,Midwest,0.096539220036637
+Missouri ,Bollinger ,Midwest,-0.321101238597891
+Missouri ,Boone ,Midwest,-1.30493482517813
+Missouri ,Buchanan ,Midwest,0.380603550540845
+Missouri ,Butler ,Midwest,0.902028547560244
+Missouri ,Caldwell ,Midwest,0.926244096816313
+Missouri ,Callaway ,Midwest,-0.218483165540489
+Missouri ,Camden ,Midwest,0.21119248133592
+Missouri ,Cape Girardeau ,Midwest,-0.002919774556912
+Missouri ,Carroll ,Midwest,0.47628943573415
+Missouri ,Carter ,Midwest,-0.052580143260627
+Missouri ,Cass ,Midwest,-0.105267575000834
+Missouri ,Cedar ,Midwest,0.060694849612864
+Missouri ,Chariton ,Midwest,-0.298164869515923
+Missouri ,Christian ,Midwest,0.429211593559084
+Missouri ,Clark ,Midwest,0.61037572074799
+Missouri ,Clay ,Midwest,0.305173431028641
+Missouri ,Clinton ,Midwest,0.409932766429806
+Missouri ,Cole ,Midwest,-0.008193658530542
+Missouri ,Cooper ,Midwest,-0.116557492573624
+Missouri ,Crawford ,Midwest,0.553256480960235
+Missouri ,Dade ,Midwest,-1.00537736797296
+Missouri ,Dallas ,Midwest,1.07517107276449
+Missouri ,Daviess ,Midwest,0.577928119891623
+Missouri ,DeKalb ,Midwest,0.617996537320545
+Missouri ,Dent ,Midwest,0.323293014404306
+Missouri ,Douglas ,Midwest,1.42696115420576
+Missouri ,Dunklin ,Midwest,-0.273612851141885
+Missouri ,Franklin ,Midwest,0.033461399571752
+Missouri ,Gasconade ,Midwest,0.902689345082712
+Missouri ,Gentry ,Midwest,1.42313033884717
+Missouri ,Greene ,Midwest,-0.027757905549603
+Missouri ,Grundy ,Midwest,1.5022770937848
+Missouri ,Harrison ,Midwest,0.07780850675128
+Missouri ,Henry ,Midwest,-0.030616713675994
+Missouri ,Hickory ,Midwest,0.703935600737462
+Missouri ,Holt ,Midwest,-1.63720509852982
+Missouri ,Howard ,Midwest,-0.482283281163819
+Missouri ,Howell ,Midwest,0.996536909094548
+Missouri ,Iron ,Midwest,-0.037173172773882
+Missouri ,Jackson ,Midwest,0.011125710200714
+Missouri ,Jasper ,Midwest,0.680566740413183
+Missouri ,Jefferson ,Midwest,0.486473723695687
+Missouri ,Johnson ,Midwest,-0.604708268858461
+Missouri ,Knox ,Midwest,0.383964367888318
+Missouri ,Laclede ,Midwest,1.11251707372107
+Missouri ,Lafayette ,Midwest,0.526631570990354
+Missouri ,Lawrence ,Midwest,0.671503360880652
+Missouri ,Lewis ,Midwest,-0.072266743504396
+Missouri ,Lincoln ,Midwest,-0.47527486503456
+Missouri ,Linn ,Midwest,0.247521303021028
+Missouri ,Livingston ,Midwest,0.665252736750635
+Missouri ,Macon ,Midwest,-0.581106382466997
+Missouri ,Madison ,Midwest,0.74759229380931
+Missouri ,Maries ,Midwest,0.743547328202776
+Missouri ,Marion ,Midwest,0.662624205048849
+Missouri ,McDonald ,Midwest,0.986468553579209
+Missouri ,Mercer ,Midwest,1.15619967343504
+Missouri ,Miller ,Midwest,0.187096137398476
+Missouri ,Mississippi  ,Midwest,0.043711566917628
+Missouri ,Moniteau ,Midwest,0.40387594146296
+Missouri ,Monroe ,Midwest,-0.204689337917015
+Missouri ,Montgomery ,Midwest,0.443074351774108
+Missouri ,Morgan ,Midwest,0.510740557577694
+Missouri ,New Madrid ,Midwest,0.716963723074686
+Missouri ,Newton ,Midwest,-0.06725030993654
+Missouri ,Nodaway ,Midwest,0.981262287946438
+Missouri ,Oregon  ,Midwest,0.310967030071323
+Missouri ,Osage ,Midwest,0.645523367669932
+Missouri ,Ozark ,Midwest,0.341757560918835
+Missouri ,Pemiscot ,Midwest,0.05463329742721
+Missouri ,Perry ,Midwest,0.016498183865218
+Missouri ,Pettis ,Midwest,0.829918478135692
+Missouri ,Phelps ,Midwest,-0.732544184644389
+Missouri ,Pike ,Midwest,-0.178105433184419
+Missouri ,Platte ,Midwest,0.002089938575193
+Missouri ,Polk ,Midwest,0.452463753941343
+Missouri ,Pulaski ,Midwest,0.93494595757195
+Missouri ,Putnam ,Midwest,0.302181926366586
+Missouri ,Ralls ,Midwest,-0.544239804241666
+Missouri ,Randolph ,Midwest,1.00475538961789
+Missouri ,Ray ,Midwest,0.404054059273103
+Missouri ,Reynolds ,Midwest,-0.556597538353779
+Missouri ,Ripley ,Midwest,0.66724550032444
+Missouri ,Saline ,Midwest,-0.311912775261613
+Missouri ,Schuyler ,Midwest,0.547225004011141
+Missouri ,Scotland ,Midwest,1.88352465469591
+Missouri ,Scott ,Midwest,0.865889594180209
+Missouri ,Shannon ,Midwest,-0.315645824549078
+Missouri ,Shelby ,Midwest,0.410124301978812
+Missouri ,St. Charles ,Midwest,-0.193847915408802
+Missouri ,St. Clair ,Midwest,-0.323180099083152
+Missouri ,St. Francois ,Midwest,0.357520340692394
+Missouri ,St. Louis  ,Midwest,-0.118179630698245
+Missouri ,St. Louis City ,Midwest,0.129700649812127
+Missouri ,Ste. Genevieve ,Midwest,0.282457231460622
+Missouri ,Stoddard ,Midwest,-0.681780103402742
+Missouri ,Stone ,Midwest,0.597010671667685
+Missouri ,Sullivan ,Midwest,0.700787520498397
+Missouri ,Taney ,Midwest,0.134541791894948
+Missouri ,Texas  ,Midwest,0.834329850494677
+Missouri ,Vernon ,Midwest,-0.209490685323636
+Missouri ,Warren ,Midwest,0.969113904706441
+Missouri ,Washington  ,Midwest,0.686027021893071
+Missouri ,Wayne ,Midwest,0.317164446566909
+Missouri ,Webster ,Midwest,0.147323121278503
+Missouri ,Worth ,Midwest,0.684930184987117
+Missouri ,Wright ,Midwest,1.79353071584162
+Montana ,Beaverhead ,West,-0.174212986907727
+Montana ,Big Horn ,West,0.767751772090504
+Montana ,Blaine ,West,1.15980167061019
+Montana ,Broadwater ,West,0.016544535771257
+Montana ,Carbon ,West,-0.289172085979354
+Montana ,Carter ,West,0.660645887494387
+Montana ,Cascade ,West,0.190131671592376
+Montana ,Chouteau ,West,1.0353108731863
+Montana ,Custer ,West,1.06597402969097
+Montana ,Daniels ,West,0.625729218889133
+Montana ,Dawson ,West,1.4259243972432
+Montana ,Deer Lodge ,West,-0.28586755155065
+Montana ,Fallon ,West,1.67210819969402
+Montana ,Fergus ,West,0.491931748753548
+Montana ,Flathead ,West,-0.309979458723834
+Montana ,Gallatin ,West,-0.782596270644202
+Montana ,Garfield ,West,0.365036610302776
+Montana ,Glacier ,West,-1.00847534590907
+Montana ,Golden Valley ,West,-0.051258141417727
+Montana ,Granite ,West,0.168813284174662
+Montana ,Hill ,West,1.85749343722139
+Montana ,Jefferson ,West,-0.617604404945959
+Montana ,Judith Basin ,West,0.790487525319045
+Montana ,Lake ,West,-0.312505290005494
+Montana ,Lewis and Clark ,West,-0.079365143273565
+Montana ,Liberty ,West,0.849238308865047
+Montana ,Lincoln ,West,0.501039176294637
+Montana ,Madison ,West,-0.609076398180217
+Montana ,McCone ,West,0.569193501605775
+Montana ,Meagher ,West,0.025625819704103
+Montana ,Mineral ,West,-0.374866880141543
+Montana ,Missoula ,West,-0.714610143381331
+Montana ,Musselshell ,West,0.386397751538096
+Montana ,Park ,West,-0.427944868808432
+Montana ,Petroleum ,West,0.314925306062451
+Montana ,Phillips ,West,-1.03614877859064
+Montana ,Pondera ,West,0.609714759887956
+Montana ,Powder River ,West,0.8380324090014
+Montana ,Powell ,West,-0.241935308135385
+Montana ,Prairie ,West,0.779745155315837
+Montana ,Ravalli ,West,-0.124068204108035
+Montana ,Richland ,West,1.69154053384615
+Montana ,Roosevelt ,West,1.2523147560619
+Montana ,Rosebud ,West,1.24420999314806
+Montana ,Sanders ,West,0.455467449887806
+Montana ,Sheridan ,West,-0.334938452294936
+Montana ,Silver Bow ,West,1.51796284358976
+Montana ,Stillwater ,West,0.447215093380529
+Montana ,Sweet Grass ,West,0.393727474036378
+Montana ,Teton ,West,-0.186092055145324
+Montana ,Toole ,West,-0.562500649044083
+Montana ,Treasure ,West,0.8841595710621
+Montana ,Valley ,West,-0.553963598404437
+Montana ,Wheatland ,West,0.133055602246939
+Montana ,Wibaux ,West,1.08592107926814
+Montana ,Yellowstone ,West,0.600884624739867
+Nebraska ,Adams ,Midwest,1.2025064856039
+Nebraska ,Antelope ,Midwest,0.344900752141841
+Nebraska ,Arthur ,Midwest,-0.426968479834893
+Nebraska ,Banner ,Midwest,-0.623257643707133
+Nebraska ,Blaine ,Midwest,-0.412072407087255
+Nebraska ,Boone ,Midwest,0.956507278969971
+Nebraska ,Box Butte ,Midwest,0.794379141951993
+Nebraska ,Boyd ,Midwest,0.371448457973112
+Nebraska ,Brown ,Midwest,0.007517582405653
+Nebraska ,Buffalo ,Midwest,-0.30733651552698
+Nebraska ,Burt ,Midwest,-0.018336827972357
+Nebraska ,Butler ,Midwest,0.50993743238219
+Nebraska ,Cass ,Midwest,-0.162815846046922
+Nebraska ,Cedar ,Midwest,-0.186941395121772
+Nebraska ,Chase ,Midwest,0.128498074146238
+Nebraska ,Cherry ,Midwest,-0.766433184173793
+Nebraska ,Cheyenne ,Midwest,0.447766384518811
+Nebraska ,Clay ,Midwest,0.234318882604636
+Nebraska ,Colfax ,Midwest,0.971669783047612
+Nebraska ,Cuming ,Midwest,0.641049663881448
+Nebraska ,Custer ,Midwest,-0.664069559952686
+Nebraska ,Dakota ,Midwest,1.13190019847433
+Nebraska ,Dawes ,Midwest,-0.573361855844415
+Nebraska ,Dawson ,Midwest,0.082007614811632
+Nebraska ,Deuel ,Midwest,-0.440738220105313
+Nebraska ,Dixon ,Midwest,-0.944964040694356
+Nebraska ,Dodge ,Midwest,-0.728098249585133
+Nebraska ,Douglas ,Midwest,0.628813063620753
+Nebraska ,Dundy ,Midwest,-0.587287413938721
+Nebraska ,Fillmore ,Midwest,0.639858004957725
+Nebraska ,Franklin ,Midwest,0.455330646528197
+Nebraska ,Frontier ,Midwest,-0.540047220376109
+Nebraska ,Furnas ,Midwest,0.644186003862166
+Nebraska ,Gage ,Midwest,0.776850758173088
+Nebraska ,Garden ,Midwest,-1.24841778275008
+Nebraska ,Garfield ,Midwest,-0.19886912448119
+Nebraska ,Gosper ,Midwest,0.041831573709935
+Nebraska ,Grant ,Midwest,-0.655614262088564
+Nebraska ,Greeley ,Midwest,0.779266841971177
+Nebraska ,Hall ,Midwest,0.135438668041502
+Nebraska ,Hamilton ,Midwest,0.493923663645552
+Nebraska ,Harlan ,Midwest,-0.231523640726585
+Nebraska ,Hayes ,Midwest,-0.369636637449757
+Nebraska ,Hitchcock ,Midwest,-0.611168137807947
+Nebraska ,Holt ,Midwest,0.714653109505265
+Nebraska ,Hooker ,Midwest,-0.364473983565015
+Nebraska ,Howard ,Midwest,0.862040526932049
+Nebraska ,Jefferson ,Midwest,0.686533438784766
+Nebraska ,Johnson ,Midwest,0.518099235591753
+Nebraska ,Kearney ,Midwest,-0.049214774734572
+Nebraska ,Keith ,Midwest,-0.989728810933347
+Nebraska ,Keya Paha ,Midwest,-0.560269714403453
+Nebraska ,Kimball ,Midwest,-0.552319220262905
+Nebraska ,Knox ,Midwest,-0.109981658332081
+Nebraska ,Lancaster ,Midwest,-0.337894408682695
+Nebraska ,Lincoln ,Midwest,-1.42024675123402
+Nebraska ,Logan ,Midwest,-0.478230307084014
+Nebraska ,Loup ,Midwest,-1.48942190688003
+Nebraska ,Madison ,Midwest,0.885287301713272
+Nebraska ,McPherson ,Midwest,-0.755841110725308
+Nebraska ,Merrick ,Midwest,0.609829782184547
+Nebraska ,Morrill ,Midwest,-0.204187858486586
+Nebraska ,Nance ,Midwest,0.530294378205377
+Nebraska ,Nemaha ,Midwest,0.032705407553608
+Nebraska ,Nuckolls ,Midwest,-0.168164947755381
+Nebraska ,Otoe ,Midwest,-0.742867811171001
+Nebraska ,Pawnee ,Midwest,0.170547688972984
+Nebraska ,Perkins ,Midwest,-0.221517461968002
+Nebraska ,Phelps ,Midwest,0.420605294311687
+Nebraska ,Pierce ,Midwest,0.713437711503566
+Nebraska ,Platte ,Midwest,0.590832016561554
+Nebraska ,Polk ,Midwest,0.9611531031527
+Nebraska ,Red Willow ,Midwest,0.385230969250901
+Nebraska ,Richardson ,Midwest,0.317463826952551
+Nebraska ,Rock ,Midwest,-0.581275952491126
+Nebraska ,Saline ,Midwest,1.0917783952247
+Nebraska ,Sarpy ,Midwest,0.327833382484444
+Nebraska ,Saunders ,Midwest,-0.276193809842456
+Nebraska ,Scotts Bluff ,Midwest,-0.311910739217809
+Nebraska ,Seward ,Midwest,-0.234155048970236
+Nebraska ,Sheridan ,Midwest,-0.392292079080635
+Nebraska ,Sherman ,Midwest,0.358473190422404
+Nebraska ,Sioux ,Midwest,-1.37694725297014
+Nebraska ,Stanton ,Midwest,0.422799539576664
+Nebraska ,Thayer ,Midwest,0.717702458001729
+Nebraska ,Thomas ,Midwest,-0.878764800437723
+Nebraska ,Thurston ,Midwest,1.29361036204878
+Nebraska ,Valley ,Midwest,0.897723411082651
+Nebraska ,Washington  ,Midwest,-0.224328386697095
+Nebraska ,Wayne ,Midwest,0.129505184592715
+Nebraska ,Webster ,Midwest,0.530103156223332
+Nebraska ,Wheeler ,Midwest,-0.101276123010763
+Nebraska ,York ,Midwest,0.488028807177487
+Nevada ,Carson City ,West,0.615375143909498
+Nevada ,Churchill ,West,0.108576478991002
+Nevada ,Clark ,West,0.703107007351153
+Nevada ,Douglas ,West,0.233853171771911
+Nevada ,Elko ,West,0.094634307590517
+Nevada ,Esmeralda ,West,-1.36577397694077
+Nevada ,Eureka ,West,0.226544856654518
+Nevada ,Humboldt ,West,0.18908278526008
+Nevada ,Lander ,West,0.100232260045517
+Nevada ,Lincoln ,West,-0.633189503362939
+Nevada ,Lyon ,West,0.744929429483303
+Nevada ,Mineral ,West,0.47460171650176
+Nevada ,Nye ,West,-0.318464393114616
+Nevada ,Pershing ,West,0.811529032364727
+Nevada ,Storey ,West,0.091955126906529
+Nevada ,Washoe ,West,0.12318551604221
+Nevada ,White Pine ,West,-0.643394884326213
+New Hampshire ,Belknap ,Northeast,0.204662051770586
+New Hampshire ,Carroll ,Northeast,-0.471361821959001
+New Hampshire ,Cheshire ,Northeast,-0.614825538423469
+New Hampshire ,Coos ,Northeast,-1.18801682391037
+New Hampshire ,Grafton ,Northeast,-0.78245006269401
+New Hampshire ,Hillsborough ,Northeast,0.132300880980339
+New Hampshire ,Merrimack ,Northeast,-0.523702484438111
+New Hampshire ,Rockingham ,Northeast,-1.07056369617394
+New Hampshire ,Strafford ,Northeast,-0.109353368854541
+New Hampshire ,Sullivan ,Northeast,-0.089243628754819
+New Jersey ,Atlantic ,Northeast,-0.351469704667721
+New Jersey ,Bergen ,Northeast,-0.031334286999628
+New Jersey ,Burlington ,Northeast,0.194337122702754
+New Jersey ,Camden ,Northeast,0.883269702252921
+New Jersey ,Cape May ,Northeast,-2.07677687197427
+New Jersey ,Cumberland ,Northeast,0.15194393630657
+New Jersey ,Essex ,Northeast,1.19804489047226
+New Jersey ,Gloucester ,Northeast,0.205289339867988
+New Jersey ,Hudson ,Northeast,0.877098858635026
+New Jersey ,Hunterdon ,Northeast,-0.7288394041569
+New Jersey ,Mercer ,Northeast,-0.107806950311564
+New Jersey ,Middlesex ,Northeast,0.531300621796429
+New Jersey ,Monmouth ,Northeast,-0.159136937265661
+New Jersey ,Morris ,Northeast,0.020329541692024
+New Jersey ,Ocean ,Northeast,-0.236332145064431
+New Jersey ,Passaic ,Northeast,0.583196107844939
+New Jersey ,Salem ,Northeast,0.122613051894076
+New Jersey ,Somerset ,Northeast,-0.1358401943733
+New Jersey ,Sussex ,Northeast,-0.191190642275788
+New Jersey ,Union ,Northeast,0.999897209043045
+New Jersey ,Warren ,Northeast,0.165961920400528
+New Mexico ,Bernalillo ,West,-0.306357505038669
+New Mexico ,Catron ,West,-0.831632707605933
+New Mexico ,Chaves ,West,0.63950473994126
+New Mexico ,Cibola ,West,0.601109808006388
+New Mexico ,Colfax ,West,-0.332532593476157
+New Mexico ,Curry ,West,0.973018473763314
+New Mexico ,De Baca ,West,-0.401831468371959
+New Mexico ,DoÃ±a Ana ,West,0.378283320975471
+New Mexico ,Eddy ,West,0.075940510960234
+New Mexico ,Grant ,West,-0.314670354913735
+New Mexico ,Guadalupe ,West,0.030415797078732
+New Mexico ,Harding ,West,-0.46343278758707
+New Mexico ,Hidalgo ,West,-1.11376635515333
+New Mexico ,Lea ,West,1.10578928817956
+New Mexico ,Lincoln ,West,0.533137377108661
+New Mexico ,Los Alamos ,West,-1.75711522540984
+New Mexico ,Luna ,West,0.582663375855137
+New Mexico ,McKinley ,West,1.63726198185526
+New Mexico ,Mora ,West,-0.423793104593761
+New Mexico ,Otero ,West,0.579603202247726
+New Mexico ,Quay ,West,0.364854577376859
+New Mexico ,Rio Arriba ,West,0.211125706465811
+New Mexico ,Roosevelt ,West,-0.035559204162985
+New Mexico ,San Juan ,West,1.25388321637421
+New Mexico ,San Miguel ,West,-0.336749436959447
+New Mexico ,Sandoval ,West,0.051174914842533
+New Mexico ,Santa Fe ,West,-0.152525734810871
+New Mexico ,Sierra ,West,-0.796244772810319
+New Mexico ,Socorro ,West,-1.43208584790133
+New Mexico ,Taos ,West,-0.140168737983347
+New Mexico ,Torrance ,West,0.128662264881426
+New Mexico ,Union ,West,-0.380759816317443
+New Mexico ,Valencia ,West,0.635955584938423
+New York ,Albany ,Northeast,-0.200771154821137
+New York ,Allegany ,Northeast,0.622328811006776
+New York ,Bronx ,Northeast,1.56786157564402
+New York ,Broome ,Northeast,-0.531988276627833
+New York ,Cattaraugus ,Northeast,0.313427940731725
+New York ,Cayuga ,Northeast,-0.471997846475856
+New York ,Chautauqua ,Northeast,0.15979902745706
+New York ,Chemung ,Northeast,-0.218607531037537
+New York ,Chenango ,Northeast,0.474453114768345
+New York ,Clinton ,Northeast,0.940565715472164
+New York ,Columbia ,Northeast,-0.171148118091346
+New York ,Cortland ,Northeast,0.292946837523402
+New York ,Delaware  ,Northeast,0.111684059211809
+New York ,Dutchess ,Northeast,-0.188627232075385
+New York ,Erie ,Northeast,0.130125672818695
+New York ,Essex ,Northeast,-0.842465711447857
+New York ,Franklin ,Northeast,-0.035998250401924
+New York ,Fulton ,Northeast,0.439242348755972
+New York ,Genesee ,Northeast,-0.030786437068906
+New York ,Greene ,Northeast,-0.110202883812861
+New York ,Hamilton ,Northeast,-0.97031207040297
+New York ,Herkimer ,Northeast,-0.542028611123865
+New York ,Jefferson ,Northeast,-0.209673979943671
+New York ,Kings ,Northeast,0.362741993405127
+New York ,Lewis ,Northeast,0.766727438278053
+New York ,Livingston ,Northeast,-0.58392014998803
+New York ,Madison ,Northeast,-0.108328008033307
+New York ,Monroe ,Northeast,-0.662874990660152
+New York ,Montgomery ,Northeast,0.37895788361964
+New York ,Nassau ,Northeast,0.020894016907089
+New York ,New York  ,Northeast,-0.130339634826258
+New York ,Niagara ,Northeast,0.23832134677244
+New York ,Oneida ,Northeast,0.101330449090922
+New York ,Onondaga ,Northeast,-0.156282777003971
+New York ,Ontario ,Northeast,-0.748984193146026
+New York ,Orange ,Northeast,-0.013074919049978
+New York ,Orleans ,Northeast,0.068991878338865
+New York ,Oswego ,Northeast,-0.546801651905995
+New York ,Otsego ,Northeast,0.442872392525182
+New York ,Putnam ,Northeast,1.1322112562022
+New York ,Queens ,Northeast,0.599131591188962
+New York ,Rensselaer ,Northeast,0.234525057773757
+New York ,Richmond ,Northeast,-0.435437064592001
+New York ,Rockland ,Northeast,0.801395047430435
+New York ,Saratoga ,Northeast,-0.024165657013859
+New York ,Schenectady ,Northeast,1.0867905598681
+New York ,Schoharie ,Northeast,0.396070637618253
+New York ,Schuyler ,Northeast,-0.093168288547816
+New York ,Seneca ,Northeast,-1.50806318654174
+New York ,St. Lawrence ,Northeast,0.024454083332735
+New York ,Steuben ,Northeast,0.413543842388746
+New York ,Suffolk ,Northeast,-0.815956356142289
+New York ,Sullivan ,Northeast,-0.21740987536786
+New York ,Tioga ,Northeast,-0.083117958868075
+New York ,Tompkins ,Northeast,-2.12825076160669
+New York ,Ulster ,Northeast,-0.389433535572087
+New York ,Warren ,Northeast,0.749287434362639
+New York ,Washington  ,Northeast,0.078531225804553
+New York ,Wayne ,Northeast,-0.675233373698574
+New York ,Westchester ,Northeast,0.019395629806388
+New York ,Wyoming  ,Northeast,0.760717584624072
+New York ,Yates ,Northeast,0.419036692154406
+North Carolina ,Alamance ,South,0.150153031812563
+North Carolina ,Alexander ,South,0.412369953005106
+North Carolina ,Alleghany ,South,-0.33178046297189
+North Carolina ,Anson ,South,0.200500583387493
+North Carolina ,Ashe ,South,-0.396618323049251
+North Carolina ,Avery ,South,-0.934887840863556
+North Carolina ,Beaufort ,South,-0.067469256910493
+North Carolina ,Bertie ,South,0.95456586045946
+North Carolina ,Bladen ,South,0.267225549450357
+North Carolina ,Brunswick ,South,-0.70515791255165
+North Carolina ,Buncombe ,South,-1.00363102407916
+North Carolina ,Burke ,South,0.524578929640527
+North Carolina ,Cabarrus ,South,0.071051436609539
+North Carolina ,Caldwell ,South,0.579884815603953
+North Carolina ,Camden ,South,-0.582609121023471
+North Carolina ,Carteret ,South,-1.22335853120061
+North Carolina ,Caswell ,South,0.625441062137477
+North Carolina ,Catawba ,South,0.402699248332776
+North Carolina ,Chatham ,South,-0.996942133066188
+North Carolina ,Cherokee ,South,0.597407226511475
+North Carolina ,Chowan ,South,0.74352064364109
+North Carolina ,Clay ,South,-0.062584441511502
+North Carolina ,Cleveland ,South,0.526983496686421
+North Carolina ,Columbus ,South,1.12382978553459
+North Carolina ,Craven ,South,-0.071715785113649
+North Carolina ,Cumberland ,South,0.642985971217832
+North Carolina ,Currituck ,South,-1.0687451288385
+North Carolina ,Dare ,South,-2.73121320909311
+North Carolina ,Davidson ,South,1.19795145094982
+North Carolina ,Davie ,South,0.466734445985414
+North Carolina ,Duplin ,South,1.48008914112704
+North Carolina ,Durham ,South,-1.01008821897158
+North Carolina ,Edgecombe ,South,0.590686049883066
+North Carolina ,Forsyth ,South,-0.811399080791143
+North Carolina ,Franklin ,South,0.721851148318861
+North Carolina ,Gaston ,South,0.378537769103448
+North Carolina ,Gates ,South,0.09965899547493
+North Carolina ,Graham ,South,-0.60141505376125
+North Carolina ,Granville ,South,0.718684713576202
+North Carolina ,Greene ,South,1.44065873461573
+North Carolina ,Guilford ,South,-0.082704350361619
+North Carolina ,Halifax ,South,0.633584441452939
+North Carolina ,Harnett ,South,0.807546114017034
+North Carolina ,Haywood ,South,-0.91856712765747
+North Carolina ,Henderson ,South,-0.754646559495296
+North Carolina ,Hertford ,South,1.30908749062556
+North Carolina ,Hoke ,South,1.18529464749555
+North Carolina ,Hyde ,South,-2.19295459773321
+North Carolina ,Iredell ,South,0.539645447063011
+North Carolina ,Jackson ,South,-0.591268879004252
+North Carolina ,Johnston ,South,0.652785726387519
+North Carolina ,Jones ,South,0.280888847266745
+North Carolina ,Lee ,South,0.794143678532429
+North Carolina ,Lenoir ,South,1.50568390186272
+North Carolina ,Lincoln ,South,1.48481823877883
+North Carolina ,Macon ,South,-0.567802681279185
+North Carolina ,Madison ,South,-0.617383440830311
+North Carolina ,Martin ,South,0.577439077591442
+North Carolina ,McDowell ,South,0.13815993987483
+North Carolina ,Mecklenburg ,South,-0.199219898418975
+North Carolina ,Mitchell ,South,-0.287400689465161
+North Carolina ,Montgomery ,South,0.465989637218647
+North Carolina ,Moore ,South,-0.288780764484462
+North Carolina ,Nash ,South,0.873136184903674
+North Carolina ,New Hanover ,South,-0.74387893089764
+North Carolina ,Northampton ,South,0.600229609029162
+North Carolina ,Onslow ,South,0.505229335137818
+North Carolina ,Orange ,South,-1.14252058714627
+North Carolina ,Pamlico ,South,-1.52533751686971
+North Carolina ,Pasquotank ,South,1.0087723473904
+North Carolina ,Pender ,South,-0.19509386228038
+North Carolina ,Perquimans ,South,0.760812019992785
+North Carolina ,Person ,South,-0.326012028140994
+North Carolina ,Pitt ,South,0.508358152107654
+North Carolina ,Polk ,South,-0.266406952212932
+North Carolina ,Randolph ,South,0.884758366522143
+North Carolina ,Richmond ,South,0.805323104911863
+North Carolina ,Robeson ,South,1.28219920194477
+North Carolina ,Rockingham ,South,-0.551385343314451
+North Carolina ,Rowan ,South,0.434600454806441
+North Carolina ,Rutherford ,South,0.794250428169645
+North Carolina ,Sampson ,South,0.94889374111572
+North Carolina ,Scotland ,South,0.602765879048993
+North Carolina ,Stanly ,South,0.591154292211556
+North Carolina ,Stokes ,South,0.144578407667423
+North Carolina ,Surry ,South,0.06799515152809
+North Carolina ,Swain ,South,-0.937836480402119
+North Carolina ,Transylvania ,South,-1.43038345433933
+North Carolina ,Tyrrell ,South,-1.31787624532463
+North Carolina ,Union ,South,0.160409778489581
+North Carolina ,Vance ,South,1.02301556763625
+North Carolina ,Wake ,South,-0.598843732085318
+North Carolina ,Warren ,South,0.750237337244337
+North Carolina ,Washington  ,South,-1.42881629279454
+North Carolina ,Watauga ,South,-0.997397252271668
+North Carolina ,Wayne ,South,1.2274747590431
+North Carolina ,Wilkes ,South,0.005440001140525
+North Carolina ,Wilson ,South,0.478836879775973
+North Carolina ,Yadkin ,South,0.561747276769996
+North Carolina ,Yancey ,South,-1.24999332945577
+North Dakota ,Adams ,Midwest,0.185932671365917
+North Dakota ,Barnes ,Midwest,-0.905475780554551
+North Dakota ,Benson ,Midwest,-0.018849650391706
+North Dakota ,Billings ,Midwest,-2.30384449741901
+North Dakota ,Bottineau ,Midwest,-0.74148367506586
+North Dakota ,Bowman ,Midwest,-0.968911260480532
+North Dakota ,Burke ,Midwest,-1.20498845107047
+North Dakota ,Burleigh ,Midwest,-0.164093765578544
+North Dakota ,Cass ,Midwest,0.035483869484764
+North Dakota ,Cavalier ,Midwest,1.11745658309237
+North Dakota ,Dickey ,Midwest,0.320481438275804
+North Dakota ,Divide ,Midwest,-0.610544746238325
+North Dakota ,Dunn ,Midwest,-0.511530994608841
+North Dakota ,Eddy ,Midwest,-0.576495683056379
+North Dakota ,Emmons ,Midwest,0.07601678711699
+North Dakota ,Foster ,Midwest,-0.162222028242735
+North Dakota ,Golden Valley ,Midwest,-0.91038479877925
+North Dakota ,Grand Forks ,Midwest,-0.79997106144509
+North Dakota ,Grant ,Midwest,-0.452545771717033
+North Dakota ,Griggs ,Midwest,0.77999373985293
+North Dakota ,Hettinger ,Midwest,0.100198276794356
+North Dakota ,Kidder ,Midwest,-1.66314660352549
+North Dakota ,LaMoure ,Midwest,0.53217914730864
+North Dakota ,Logan ,Midwest,0.513463981699356
+North Dakota ,McHenry ,Midwest,-0.80741979460538
+North Dakota ,McIntosh ,Midwest,0.187522623314967
+North Dakota ,McKenzie ,Midwest,-0.910992143984379
+North Dakota ,McLean ,Midwest,-0.504279656605817
+North Dakota ,Mercer ,Midwest,-0.349674304681828
+North Dakota ,Morton ,Midwest,0.057762280380482
+North Dakota ,Mountrail ,Midwest,-1.03879026769299
+North Dakota ,Nelson ,Midwest,-0.119228325303868
+North Dakota ,Oliver ,Midwest,-0.418337584054892
+North Dakota ,Pembina ,Midwest,0.458873966454254
+North Dakota ,Pierce ,Midwest,0.539254165436573
+North Dakota ,Ramsey ,Midwest,0.270664473233711
+North Dakota ,Ransom ,Midwest,-0.593385851862357
+North Dakota ,Renville ,Midwest,-0.148654080775879
+North Dakota ,Richland ,Midwest,0.531891077848113
+North Dakota ,Rolette ,Midwest,1.03737310694328
+North Dakota ,Sargent ,Midwest,0.309915426726921
+North Dakota ,Sheridan ,Midwest,-0.454164803436777
+North Dakota ,Sioux ,Midwest,0.487141281073627
+North Dakota ,Slope ,Midwest,-1.57989148320157
+North Dakota ,Stark ,Midwest,0.301854300986239
+North Dakota ,Steele ,Midwest,-1.90427844808206
+North Dakota ,Stutsman ,Midwest,-0.540741983921219
+North Dakota ,Towner ,Midwest,0.630645545001405
+North Dakota ,Traill ,Midwest,-0.166446729453313
+North Dakota ,Walsh ,Midwest,0.510440309661021
+North Dakota ,Ward ,Midwest,-0.240118441822726
+North Dakota ,Wells ,Midwest,0.18150655788639
+North Dakota ,Williams ,Midwest,-0.460650274226114
+Ohio ,Adams ,Midwest,0.180773280344213
+Ohio ,Allen ,Midwest,0.805361569631317
+Ohio ,Ashland ,Midwest,-0.315968263847732
+Ohio ,Ashtabula ,Midwest,-0.406401113745815
+Ohio ,Athens ,Midwest,-0.697644571620858
+Ohio ,Auglaize ,Midwest,0.120088057324222
+Ohio ,Belmont ,Midwest,0.94943962523558
+Ohio ,Brown ,Midwest,1.00547900043608
+Ohio ,Butler ,Midwest,0.353977660355885
+Ohio ,Carroll ,Midwest,0.127263210703626
+Ohio ,Champaign ,Midwest,0.44287693907932
+Ohio ,Clark ,Midwest,-0.396069455693843
+Ohio ,Clermont ,Midwest,-0.500288617145576
+Ohio ,Clinton ,Midwest,0.010980701027893
+Ohio ,Columbiana ,Midwest,0.818380800424277
+Ohio ,Coshocton ,Midwest,0.40212799467274
+Ohio ,Crawford ,Midwest,0.555009460407243
+Ohio ,Cuyahoga ,Midwest,-0.514847227353699
+Ohio ,Darke ,Midwest,0.097409436277188
+Ohio ,Defiance ,Midwest,0.604055377874915
+Ohio ,Delaware  ,Midwest,-0.739003455836813
+Ohio ,Erie ,Midwest,-1.20731637475307
+Ohio ,Fairfield ,Midwest,0.280866110509582
+Ohio ,Fayette ,Midwest,0.628266744815366
+Ohio ,Franklin ,Midwest,-0.525065613764681
+Ohio ,Fulton ,Midwest,0.350973836668242
+Ohio ,Gallia ,Midwest,0.600195922668221
+Ohio ,Geauga ,Midwest,-1.0879560369242
+Ohio ,Greene ,Midwest,-0.308667144563051
+Ohio ,Guernsey ,Midwest,0.285823510584065
+Ohio ,Hamilton ,Midwest,-0.207776631286724
+Ohio ,Hancock ,Midwest,-0.898254709058024
+Ohio ,Hardin ,Midwest,-0.161821524028039
+Ohio ,Harrison ,Midwest,-0.206762248979673
+Ohio ,Henry ,Midwest,0.471860639823195
+Ohio ,Highland ,Midwest,0.125075207945999
+Ohio ,Hocking ,Midwest,-0.467762123708692
+Ohio ,Holmes ,Midwest,-0.358668061829431
+Ohio ,Huron ,Midwest,0.199624059930338
+Ohio ,Jackson ,Midwest,1.13315771195411
+Ohio ,Jefferson ,Midwest,0.070667078886936
+Ohio ,Knox ,Midwest,-0.319210849767185
+Ohio ,Lake ,Midwest,-0.698947134251336
+Ohio ,Lawrence ,Midwest,0.768253974830405
+Ohio ,Licking ,Midwest,-0.191933361955504
+Ohio ,Logan ,Midwest,-0.078141637920621
+Ohio ,Lorain ,Midwest,-0.607366750625509
+Ohio ,Lucas ,Midwest,-1.22981963530945
+Ohio ,Madison ,Midwest,-0.063959052804903
+Ohio ,Mahoning ,Midwest,0.215670938751845
+Ohio ,Marion ,Midwest,-0.309819905296388
+Ohio ,Medina ,Midwest,-0.033989697300003
+Ohio ,Meigs ,Midwest,0.838067107875629
+Ohio ,Mercer ,Midwest,0.438300755477389
+Ohio ,Miami ,Midwest,0.244528783973774
+Ohio ,Monroe ,Midwest,0.125717591150405
+Ohio ,Montgomery ,Midwest,-0.083012236996881
+Ohio ,Morgan ,Midwest,0.049118609451607
+Ohio ,Morrow ,Midwest,0.01171535320544
+Ohio ,Muskingum ,Midwest,0.188228305348487
+Ohio ,Noble ,Midwest,0.426414600858437
+Ohio ,Ottawa ,Midwest,-2.00208055446077
+Ohio ,Paulding ,Midwest,-0.37920520941399
+Ohio ,Perry ,Midwest,-0.06471590147353
+Ohio ,Pickaway ,Midwest,-0.444024485121394
+Ohio ,Pike ,Midwest,0.828826176003261
+Ohio ,Portage ,Midwest,-0.452982780753111
+Ohio ,Preble ,Midwest,0.041120800269699
+Ohio ,Putnam ,Midwest,1.46356184702876
+Ohio ,Richland ,Midwest,-0.576453087238159
+Ohio ,Ross ,Midwest,0.54377642875993
+Ohio ,Sandusky ,Midwest,-0.233988631764783
+Ohio ,Scioto ,Midwest,0.483108553155312
+Ohio ,Seneca ,Midwest,-0.098100680471134
+Ohio ,Shelby ,Midwest,0.513708705090322
+Ohio ,Stark ,Midwest,-0.088205009271491
+Ohio ,Summit ,Midwest,-0.349557096910244
+Ohio ,Trumbull ,Midwest,0.372953065213149
+Ohio ,Tuscarawas ,Midwest,0.228346265895076
+Ohio ,Union ,Midwest,-0.283076195171809
+Ohio ,Van Wert ,Midwest,1.50291893494922
+Ohio ,Vinton ,Midwest,-0.599163430453895
+Ohio ,Warren ,Midwest,0.077962264061559
+Ohio ,Washington  ,Midwest,0.438207182268573
+Ohio ,Wayne ,Midwest,-0.74203107763815
+Ohio ,Williams ,Midwest,0.383789205050945
+Ohio ,Wood ,Midwest,0.086394474636852
+Ohio ,Wyandot ,Midwest,-1.09251059063853
+Oklahoma ,Adair ,South,0.53613574841776
+Oklahoma ,Alfalfa ,South,-1.47962113954749
+Oklahoma ,Atoka ,South,0.850882618635994
+Oklahoma ,Beaver ,South,-0.605856134337859
+Oklahoma ,Beckham ,South,0.465352140824021
+Oklahoma ,Blaine ,South,0.122807650092813
+Oklahoma ,Bryan ,South,0.723858100692042
+Oklahoma ,Caddo ,South,0.265943242564388
+Oklahoma ,Canadian ,South,-0.001114826179007
+Oklahoma ,Carter ,South,0.521787346837049
+Oklahoma ,Cherokee ,South,0.366900912804868
+Oklahoma ,Choctaw ,South,0.63471509834002
+Oklahoma ,Cimarron ,South,-2.36656779584754
+Oklahoma ,Cleveland ,South,-0.462602776759788
+Oklahoma ,Coal ,South,1.26143279000919
+Oklahoma ,Comanche ,South,-0.29726920629356
+Oklahoma ,Cotton ,South,-0.40754586801903
+Oklahoma ,Craig ,South,0.997186008924904
+Oklahoma ,Creek ,South,0.693406797230076
+Oklahoma ,Custer ,South,-0.577275380390874
+Oklahoma ,Delaware  ,South,0.724781760085776
+Oklahoma ,Dewey ,South,0.277053652080167
+Oklahoma ,Ellis ,South,-0.364426863531142
+Oklahoma ,Garfield ,South,1.13615714590319
+Oklahoma ,Garvin ,South,0.651738412853998
+Oklahoma ,Grady ,South,0.482470461846178
+Oklahoma ,Grant ,South,-0.138511534782688
+Oklahoma ,Greer ,South,0.134445405156012
+Oklahoma ,Harmon ,South,-0.53790537992116
+Oklahoma ,Harper ,South,-0.726428538577672
+Oklahoma ,Haskell ,South,1.56438598433749
+Oklahoma ,Hughes ,South,0.922864803168397
+Oklahoma ,Jackson ,South,0.232155941159476
+Oklahoma ,Jefferson ,South,-0.015227152608285
+Oklahoma ,Johnston ,South,-0.542668462308824
+Oklahoma ,Kay ,South,0.647239193833518
+Oklahoma ,Kingfisher ,South,0.653329261950177
+Oklahoma ,Kiowa ,South,0.22957936069889
+Oklahoma ,Latimer ,South,0.775857621857345
+Oklahoma ,Le Flore ,South,0.262292699258179
+Oklahoma ,Lincoln ,South,1.04638875469149
+Oklahoma ,Logan ,South,-0.271713678503972
+Oklahoma ,Love ,South,0.31521784580733
+Oklahoma ,Major ,South,0.351039777926311
+Oklahoma ,Marshall ,South,0.671943784475852
+Oklahoma ,Mayes ,South,1.10491038232253
+Oklahoma ,McClain ,South,0.411491274332172
+Oklahoma ,McCurtain ,South,-0.937798781540802
+Oklahoma ,McIntosh ,South,0.823918383042484
+Oklahoma ,Murray ,South,0.35886125914311
+Oklahoma ,Muskogee ,South,1.27507841266319
+Oklahoma ,Noble ,South,-0.379393302150498
+Oklahoma ,Nowata ,South,0.844231518704943
+Oklahoma ,Okfuskee ,South,1.43728273455601
+Oklahoma ,Oklahoma  ,South,-0.073105192454317
+Oklahoma ,Okmulgee ,South,1.19927615419782
+Oklahoma ,Osage ,South,-0.481854635309261
+Oklahoma ,Ottawa ,South,0.8859471857713
+Oklahoma ,Pawnee ,South,0.024476188655987
+Oklahoma ,Payne ,South,-1.19265310187606
+Oklahoma ,Pittsburg ,South,0.473244920529761
+Oklahoma ,Pontotoc ,South,1.39352894388653
+Oklahoma ,Pottawatomie ,South,0.914218825891649
+Oklahoma ,Pushmataha ,South,0.686798216284992
+Oklahoma ,Roger Mills ,South,-0.141880004698392
+Oklahoma ,Rogers ,South,0.450920373944546
+Oklahoma ,Seminole ,South,1.28555926817085
+Oklahoma ,Sequoyah ,South,-0.362663905520333
+Oklahoma ,Stephens ,South,1.19960493081246
+Oklahoma ,Texas  ,South,-0.529737497894291
+Oklahoma ,Tillman ,South,-0.975144531543557
+Oklahoma ,Tulsa ,South,0.118202130809546
+Oklahoma ,Wagoner ,South,0.214527613023077
+Oklahoma ,Washington  ,South,0.022434236932101
+Oklahoma ,Washita ,South,0.269819330711365
+Oklahoma ,Woods ,South,0.189389036977621
+Oklahoma ,Woodward ,South,-1.13183988928499
+Oregon ,Baker ,West,0.08590930201383
+Oregon ,Benton ,West,-1.71741663976844
+Oregon ,Clackamas ,West,0.148629298662592
+Oregon ,Clatsop ,West,-0.797685843075034
+Oregon ,Columbia ,West,-0.070220511484199
+Oregon ,Coos ,West,-0.221977094252998
+Oregon ,Crook ,West,-0.942087574860568
+Oregon ,Curry ,West,-0.571227399841082
+Oregon ,Deschutes ,West,-0.781367750061723
+Oregon ,Douglas ,West,-0.055610712289105
+Oregon ,Gilliam ,West,-0.705222515708293
+Oregon ,Grant ,West,-0.457522188938772
+Oregon ,Harney ,West,-2.18070406427106
+Oregon ,Hood River ,West,-0.052106031196001
+Oregon ,Jackson ,West,-0.414887003230812
+Oregon ,Jefferson ,West,-0.481282415632417
+Oregon ,Josephine ,West,0.198719468130184
+Oregon ,Klamath ,West,-0.577254285082694
+Oregon ,Lake ,West,-1.31102518964526
+Oregon ,Lane ,West,-0.897838451203024
+Oregon ,Lincoln ,West,-1.4191393435856
+Oregon ,Linn ,West,-0.074186385558323
+Oregon ,Malheur ,West,0.485878532671583
+Oregon ,Marion ,West,-0.028901298276624
+Oregon ,Morrow ,West,-0.06113762110495
+Oregon ,Multnomah ,West,-0.378020879328745
+Oregon ,Polk ,West,-0.465223228546926
+Oregon ,Sherman ,West,-0.952267328292776
+Oregon ,Tillamook ,West,-1.17315916419961
+Oregon ,Umatilla ,West,0.413941952152132
+Oregon ,Union ,West,-0.55817194778061
+Oregon ,Wallowa ,West,-0.867504248032889
+Oregon ,Wasco ,West,-0.293690160841657
+Oregon ,Washington  ,West,-0.261925124062774
+Oregon ,Wheeler ,West,-0.962858264821943
+Oregon ,Yamhill ,West,0.64172568488874
+Pennsylvania ,Adams ,Northeast,0.29510583636411
+Pennsylvania ,Allegheny ,Northeast,-0.494245795367081
+Pennsylvania ,Armstrong ,Northeast,0.337573785000614
+Pennsylvania ,Beaver ,Northeast,0.926137137160181
+Pennsylvania ,Bedford ,Northeast,0.894258689045754
+Pennsylvania ,Berks ,Northeast,0.011729783952224
+Pennsylvania ,Blair ,Northeast,0.843427415660192
+Pennsylvania ,Bradford ,Northeast,1.01855985825922
+Pennsylvania ,Bucks ,Northeast,-0.418595023110871
+Pennsylvania ,Butler ,Northeast,-0.076151672939393
+Pennsylvania ,Cambria ,Northeast,1.28541263575825
+Pennsylvania ,Cameron ,Northeast,0.917552207264189
+Pennsylvania ,Carbon ,Northeast,0.527487883632779
+Pennsylvania ,Centre ,Northeast,-1.18159550851586
+Pennsylvania ,Chester ,Northeast,-0.692372689853721
+Pennsylvania ,Clarion ,Northeast,0.469001223818483
+Pennsylvania ,Clearfield ,Northeast,1.05642566675888
+Pennsylvania ,Clinton ,Northeast,0.276240830188713
+Pennsylvania ,Columbia ,Northeast,1.14806347872038
+Pennsylvania ,Crawford ,Northeast,-0.067041602173805
+Pennsylvania ,Cumberland ,Northeast,-0.153298967879098
+Pennsylvania ,Dauphin ,Northeast,0.051239442935254
+Pennsylvania ,Delaware  ,Northeast,0.133034606634291
+Pennsylvania ,Elk ,Northeast,1.25994628876005
+Pennsylvania ,Erie ,Northeast,0.1161288899472
+Pennsylvania ,Fayette ,Northeast,1.27127127175939
+Pennsylvania ,Forest ,Northeast,0.241649504905177
+Pennsylvania ,Franklin ,Northeast,0.351351729896271
+Pennsylvania ,Fulton ,Northeast,0.677470311719426
+Pennsylvania ,Greene ,Northeast,1.17539288599617
+Pennsylvania ,Huntingdon ,Northeast,-0.639726567491945
+Pennsylvania ,Indiana  ,Northeast,0.039816376312266
+Pennsylvania ,Jefferson ,Northeast,1.42187095904312
+Pennsylvania ,Juniata ,Northeast,0.305499987458779
+Pennsylvania ,Lackawanna ,Northeast,1.12048699153331
+Pennsylvania ,Lancaster ,Northeast,-0.32582563904289
+Pennsylvania ,Lawrence ,Northeast,0.629725928900825
+Pennsylvania ,Lebanon ,Northeast,-0.230864599066394
+Pennsylvania ,Lehigh ,Northeast,0.175366270041073
+Pennsylvania ,Luzerne ,Northeast,0.545615214425902
+Pennsylvania ,Lycoming ,Northeast,-0.362467496151791
+Pennsylvania ,McKean ,Northeast,1.03855452330708
+Pennsylvania ,Mercer ,Northeast,0.714935336186898
+Pennsylvania ,Mifflin ,Northeast,0.745332572384928
+Pennsylvania ,Monroe ,Northeast,0.190693526189101
+Pennsylvania ,Montgomery ,Northeast,-0.579378783792013
+Pennsylvania ,Montour ,Northeast,0.187883926619638
+Pennsylvania ,Northampton ,Northeast,0.354034536045651
+Pennsylvania ,Northumberland ,Northeast,1.10984675704432
+Pennsylvania ,Perry ,Northeast,0.538311124153259
+Pennsylvania ,Philadelphia ,Northeast,0.411560770082998
+Pennsylvania ,Pike ,Northeast,0.552926956259593
+Pennsylvania ,Potter ,Northeast,0.451537102401487
+Pennsylvania ,Schuylkill ,Northeast,0.267634501440118
+Pennsylvania ,Snyder ,Northeast,1.20484778948226
+Pennsylvania ,Somerset ,Northeast,0.443154933316077
+Pennsylvania ,Sullivan ,Northeast,0.676341199383086
+Pennsylvania ,Susquehanna ,Northeast,-0.035206168083151
+Pennsylvania ,Tioga ,Northeast,-0.607435420552021
+Pennsylvania ,Union ,Northeast,0.979962758717352
+Pennsylvania ,Venango ,Northeast,1.48690213875941
+Pennsylvania ,Warren ,Northeast,1.17222827624289
+Pennsylvania ,Washington  ,Northeast,0.688033673786993
+Pennsylvania ,Wayne ,Northeast,0.866146380864156
+Pennsylvania ,Westmoreland ,Northeast,0.71732163110947
+Pennsylvania ,Wyoming  ,Northeast,0.605417759152526
+Pennsylvania ,York ,Northeast,0.331785066439798
+Rhode Island ,Bristol ,Northeast,0.293024721313228
+Rhode Island ,Kent ,Northeast,1.09790611223374
+Rhode Island ,Newport ,Northeast,-0.525454594764475
+Rhode Island ,Providence ,Northeast,1.00915716678296
+Rhode Island ,Washington  ,Northeast,-0.569617798468501
+South Carolina ,Abbeville ,South,0.345299674917538
+South Carolina ,Aiken ,South,-0.727509556026136
+South Carolina ,Allendale ,South,-0.197108772721182
+South Carolina ,Anderson ,South,-0.128635630999971
+South Carolina ,Bamberg ,South,1.33618054049853
+South Carolina ,Barnwell ,South,0.096744916706583
+South Carolina ,Beaufort ,South,-1.05758888695637
+South Carolina ,Berkeley ,South,-0.192283064001842
+South Carolina ,Calhoun ,South,0.079454291490052
+South Carolina ,Charleston ,South,-1.41060705944302
+South Carolina ,Cherokee ,South,0.894736642774882
+South Carolina ,Chester ,South,0.981033575232123
+South Carolina ,Chesterfield ,South,0.353142668467566
+South Carolina ,Clarendon ,South,-0.728914020155487
+South Carolina ,Colleton ,South,-1.29798992508784
+South Carolina ,Darlington ,South,0.713171108574176
+South Carolina ,Dillon ,South,0.957488173528703
+South Carolina ,Dorchester ,South,-0.009104594594873
+South Carolina ,Edgefield ,South,0.690605464313731
+South Carolina ,Fairfield ,South,1.06622015361184
+South Carolina ,Florence ,South,1.03327495542586
+South Carolina ,Georgetown ,South,-1.51548418490488
+South Carolina ,Greenville ,South,-0.468650637472813
+South Carolina ,Greenwood ,South,0.034988243574673
+South Carolina ,Hampton ,South,-0.065112560942311
+South Carolina ,Horry ,South,0.051139966879162
+South Carolina ,Jasper ,South,-1.54811341254272
+South Carolina ,Kershaw ,South,-0.441080495680592
+South Carolina ,Lancaster ,South,1.55624620045411
+South Carolina ,Laurens ,South,0.640154648600903
+South Carolina ,Lee ,South,0.363475200335013
+South Carolina ,Lexington ,South,-0.185827514953197
+South Carolina ,Marion ,South,1.5710137692489
+South Carolina ,Marlboro ,South,1.47303273767196
+South Carolina ,McCormick ,South,-0.322130583508754
+South Carolina ,Newberry ,South,0.874012458930542
+South Carolina ,Oconee ,South,-0.185668502162141
+South Carolina ,Orangeburg ,South,-0.344791711035762
+South Carolina ,Pickens ,South,-0.339932928853002
+South Carolina ,Richland ,South,-0.123063711206123
+South Carolina ,Saluda ,South,0.737973845473784
+South Carolina ,Spartanburg ,South,-1.19098766888073
+South Carolina ,Sumter ,South,0.959052589355897
+South Carolina ,Union ,South,0.613274609391118
+South Carolina ,Williamsburg ,South,0.281597662967523
+South Carolina ,York ,South,0.745471415693353
+South Dakota ,Aurora ,Midwest,-0.284687091967545
+South Dakota ,Beadle ,Midwest,0.587588389020759
+South Dakota ,Bennett ,Midwest,0.02133030284985
+South Dakota ,Bon Homme ,Midwest,0.595035865812895
+South Dakota ,Brookings ,Midwest,-0.486772607032865
+South Dakota ,Brown ,Midwest,-0.970427756722137
+South Dakota ,Brule ,Midwest,-0.037394243732373
+South Dakota ,Buffalo ,Midwest,-0.098543551365845
+South Dakota ,Butte ,Midwest,0.119163715863381
+South Dakota ,Campbell ,Midwest,0.140310634435509
+South Dakota ,Charles Mix ,Midwest,-0.821189009080167
+South Dakota ,Clark ,Midwest,0.341876157811338
+South Dakota ,Clay ,Midwest,-0.283945793481825
+South Dakota ,Codington ,Midwest,1.05052072914023
+South Dakota ,Corson ,Midwest,1.07720836502905
+South Dakota ,Custer ,Midwest,-1.4038375141141
+South Dakota ,Davison ,Midwest,0.952006251118951
+South Dakota ,Day ,Midwest,-0.383376994235474
+South Dakota ,Deuel ,Midwest,0.208993760593672
+South Dakota ,Dewey ,Midwest,1.08644890285426
+South Dakota ,Douglas ,Midwest,-1.57117340528458
+South Dakota ,Edmunds ,Midwest,-0.05507112893553
+South Dakota ,Fall River ,Midwest,-0.310822426281628
+South Dakota ,Faulk ,Midwest,0.171515004726035
+South Dakota ,Grant ,Midwest,0.168930288202927
+South Dakota ,Gregory ,Midwest,0.098712735903945
+South Dakota ,Haakon ,Midwest,-0.44473779347728
+South Dakota ,Hamlin ,Midwest,0.799166200875524
+South Dakota ,Hand ,Midwest,0.124548938108479
+South Dakota ,Hanson ,Midwest,0.284534036100689
+South Dakota ,Harding ,Midwest,-1.22218090376741
+South Dakota ,Hughes ,Midwest,-0.81076529743678
+South Dakota ,Hutchinson ,Midwest,0.24470183960189
+South Dakota ,Hyde ,Midwest,-0.14820706129637
+South Dakota ,Jackson ,Midwest,-1.38392781833898
+South Dakota ,Jerauld ,Midwest,0.516250957241256
+South Dakota ,Jones ,Midwest,-1.15644311447963
+South Dakota ,Kingsbury ,Midwest,-0.7036117121294
+South Dakota ,Lake ,Midwest,0.262632855418014
+South Dakota ,Lawrence ,Midwest,-0.270909845445757
+South Dakota ,Lincoln ,Midwest,0.316381911205972
+South Dakota ,Lyman ,Midwest,-0.966222552342019
+South Dakota ,Marshall ,Midwest,-0.177640314323966
+South Dakota ,McCook ,Midwest,0.077852510236709
+South Dakota ,McPherson ,Midwest,-1.2113857621063
+South Dakota ,Meade ,Midwest,-0.032865286580187
+South Dakota ,Mellette ,Midwest,0.586172857812029
+South Dakota ,Miner ,Midwest,0.162098413230978
+South Dakota ,Minnehaha ,Midwest,-0.000126741622304
+South Dakota ,Moody ,Midwest,0.479036636414594
+South Dakota ,Oglala Lakota ,Midwest,1.07585020842737
+South Dakota ,Pennington ,Midwest,-0.468839289064047
+South Dakota ,Perkins ,Midwest,-0.019188396731536
+South Dakota ,Potter ,Midwest,0.367493970885352
+South Dakota ,Roberts ,Midwest,-0.877229007029861
+South Dakota ,Sanborn ,Midwest,0.744890546398347
+South Dakota ,Spink ,Midwest,0.680343318924691
+South Dakota ,Stanley ,Midwest,-1.2142523994893
+South Dakota ,Sully ,Midwest,-1.2477620100753
+South Dakota ,Todd ,Midwest,1.40742846078837
+South Dakota ,Tripp ,Midwest,1.12699006415257
+South Dakota ,Turner ,Midwest,0.602581368470301
+South Dakota ,Union ,Midwest,0.566745754130099
+South Dakota ,Walworth ,Midwest,0.422470472619472
+South Dakota ,Yankton ,Midwest,-0.208635448653719
+South Dakota ,Ziebach ,Midwest,1.1467063063337
+Tennessee ,Anderson ,South,-0.533498619170514
+Tennessee ,Bedford ,South,0.041004196173821
+Tennessee ,Benton ,South,0.099052262581016
+Tennessee ,Bledsoe ,South,-0.759326015505136
+Tennessee ,Blount ,South,-0.709220616579111
+Tennessee ,Bradley ,South,0.43468734578176
+Tennessee ,Campbell ,South,-0.226828708979003
+Tennessee ,Cannon ,South,0.5980057092127
+Tennessee ,Carroll ,South,1.10283345886171
+Tennessee ,Carter ,South,-0.833035547603264
+Tennessee ,Cheatham ,South,0.425750813809596
+Tennessee ,Chester ,South,1.40467069998526
+Tennessee ,Claiborne ,South,1.32113501677999
+Tennessee ,Clay ,South,-0.225719975960969
+Tennessee ,Cocke ,South,-0.257780246957991
+Tennessee ,Coffee ,South,0.049973172379916
+Tennessee ,Crockett ,South,0.604360763367727
+Tennessee ,Cumberland ,South,-0.482549994669496
+Tennessee ,Davidson ,South,-0.491040246246614
+Tennessee ,Decatur ,South,0.333166363055033
+Tennessee ,DeKalb ,South,-0.643492119577904
+Tennessee ,Dickson ,South,0.380787508273101
+Tennessee ,Dyer ,South,-0.41057587754944
+Tennessee ,Fayette ,South,0.117471535874312
+Tennessee ,Fentress ,South,0.584735567887097
+Tennessee ,Franklin ,South,-0.071255916120369
+Tennessee ,Gibson ,South,-0.093901777078234
+Tennessee ,Giles ,South,0.869179924818685
+Tennessee ,Grainger ,South,0.370620318748864
+Tennessee ,Greene ,South,0.124960684296827
+Tennessee ,Grundy ,South,0.325142134097343
+Tennessee ,Hamblen ,South,-0.042990414578293
+Tennessee ,Hamilton ,South,-0.606810792865871
+Tennessee ,Hancock ,South,1.27405380637017
+Tennessee ,Hardeman ,South,0.962830196492132
+Tennessee ,Hardin ,South,-0.234488950863935
+Tennessee ,Hawkins ,South,-0.227684745812504
+Tennessee ,Haywood ,South,-0.094687298957506
+Tennessee ,Henderson ,South,0.564533732830282
+Tennessee ,Henry ,South,-0.87917357542964
+Tennessee ,Hickman ,South,0.642856073199576
+Tennessee ,Houston ,South,0.654317716779586
+Tennessee ,Humphreys ,South,-1.24210062850773
+Tennessee ,Jackson ,South,0.478572944902309
+Tennessee ,Jefferson ,South,0.285317193536269
+Tennessee ,Johnson ,South,-0.115438059520435
+Tennessee ,Knox ,South,-0.767348867491904
+Tennessee ,Lake ,South,-2.01984044464578
+Tennessee ,Lauderdale ,South,0.322044970736096
+Tennessee ,Lawrence ,South,0.612273355594033
+Tennessee ,Lewis ,South,-1.29508500102677
+Tennessee ,Lincoln ,South,-0.14357799725168
+Tennessee ,Loudon ,South,0.107611752808659
+Tennessee ,Macon ,South,1.87736731137767
+Tennessee ,Madison ,South,0.474841408883759
+Tennessee ,Marion ,South,-0.523451041340326
+Tennessee ,Marshall ,South,0.857677508921467
+Tennessee ,Maury ,South,0.52201624347425
+Tennessee ,McMinn ,South,0.646946378137201
+Tennessee ,McNairy ,South,0.623945365897998
+Tennessee ,Meigs ,South,-1.06361792019272
+Tennessee ,Monroe ,South,0.356181983580504
+Tennessee ,Montgomery ,South,-0.652724761871791
+Tennessee ,Moore ,South,-0.033912406752147
+Tennessee ,Morgan ,South,0.151713759009459
+Tennessee ,Obion ,South,-0.196387800952502
+Tennessee ,Overton ,South,0.923707709311033
+Tennessee ,Perry ,South,-1.159407789375
+Tennessee ,Pickett ,South,0.344322424626428
+Tennessee ,Polk ,South,-1.31831539951349
+Tennessee ,Putnam ,South,-0.616886555486721
+Tennessee ,Rhea ,South,0.139975520177261
+Tennessee ,Roane ,South,-0.557822978327857
+Tennessee ,Robertson ,South,0.933953380776864
+Tennessee ,Rutherford ,South,-0.23585621358254
+Tennessee ,Scott ,South,-0.138393499844
+Tennessee ,Sequatchie ,South,0.384409066307128
+Tennessee ,Sevier ,South,-0.782217766051322
+Tennessee ,Shelby ,South,-0.07723159515061
+Tennessee ,Smith ,South,0.085331006290727
+Tennessee ,Stewart ,South,-1.08144083834461
+Tennessee ,Sullivan ,South,-0.808956236573115
+Tennessee ,Sumner ,South,0.561297998250928
+Tennessee ,Tipton ,South,0.625125080758122
+Tennessee ,Trousdale ,South,1.01778314205181
+Tennessee ,Unicoi ,South,-0.24315067199318
+Tennessee ,Union ,South,0.077598117456638
+Tennessee ,Van Buren ,South,-0.449398802892426
+Tennessee ,Warren ,South,-0.273925574469265
+Tennessee ,Washington  ,South,-0.979814386987645
+Tennessee ,Wayne ,South,0.968728492991576
+Tennessee ,Weakley ,South,0.720278399637788
+Tennessee ,White ,South,0.247690709158121
+Tennessee ,Williamson ,South,0.051847399781848
+Tennessee ,Wilson ,South,-0.053854977283911
+Texas ,Anderson ,South,0.723028699913871
+Texas ,Andrews ,South,0.322420474692904
+Texas ,Angelina ,South,0.647067198392654
+Texas ,Aransas ,South,-2.51487098443798
+Texas ,Archer ,South,-0.63259772647719
+Texas ,Armstrong ,South,-0.469269445098049
+Texas ,Atascosa ,South,-0.03030182023438
+Texas ,Austin ,South,-0.616028889638876
+Texas ,Bailey ,South,-1.01333827655746
+Texas ,Bandera ,South,-1.63173724977991
+Texas ,Bastrop ,South,-1.03699938254664
+Texas ,Baylor ,South,-0.552130881069227
+Texas ,Bee ,South,-0.62406290425418
+Texas ,Bell ,South,0.034461707392342
+Texas ,Bexar ,South,-0.325852444013479
+Texas ,Blanco ,South,-2.02427501400638
+Texas ,Borden ,South,-1.14010739757204
+Texas ,Bosque ,South,-0.475067455599161
+Texas ,Bowie ,South,0.141605105147158
+Texas ,Brazoria ,South,-0.880630535669328
+Texas ,Brazos ,South,-0.844020502973834
+Texas ,Brewster ,South,-3.15877863989064
+Texas ,Briscoe ,South,-1.88669571988453
+Texas ,Brooks ,South,-1.29432040321954
+Texas ,Brown ,South,0.049853619469413
+Texas ,Burleson ,South,-0.338061814049048
+Texas ,Burnet ,South,-1.2462535125956
+Texas ,Caldwell ,South,-0.594197210320667
+Texas ,Calhoun ,South,-1.47596834838887
+Texas ,Callahan ,South,0.094003918234983
+Texas ,Cameron ,South,-1.60878908999775
+Texas ,Camp ,South,-0.363015026982361
+Texas ,Carson ,South,-0.542943468236245
+Texas ,Cass ,South,0.189562021194964
+Texas ,Castro ,South,0.317522770942142
+Texas ,Chambers ,South,-2.28795962295992
+Texas ,Cherokee ,South,0.668825094255537
+Texas ,Childress ,South,0.128264334348313
+Texas ,Clay ,South,-0.529048471860638
+Texas ,Cochran ,South,-0.444998323839121
+Texas ,Coke ,South,-0.467727575239581
+Texas ,Coleman ,South,-0.828299313860456
+Texas ,Collin ,South,-0.032132041403815
+Texas ,Collingsworth ,South,-0.021052494978587
+Texas ,Colorado  ,South,-1.31599576490494
+Texas ,Comal ,South,-0.869252661888283
+Texas ,Comanche ,South,0.028839310977669
+Texas ,Concho ,South,-0.641091186761818
+Texas ,Cooke ,South,0.344479262692458
+Texas ,Coryell ,South,-0.330633430316435
+Texas ,Cottle ,South,-0.603439018444291
+Texas ,Crane ,South,0.188753573331845
+Texas ,Crockett ,South,-1.30332827651397
+Texas ,Crosby ,South,-1.7738776483628
+Texas ,Culberson ,South,-2.5430935865235
+Texas ,Dallam ,South,-0.516583734409192
+Texas ,Dallas ,South,0.18610467103848
+Texas ,Dawson ,South,0.114023964727803
+Texas ,Deaf Smith ,South,0.907915816030223
+Texas ,Delta ,South,-0.736524920677574
+Texas ,Denton ,South,0.038769508537546
+Texas ,DeWitt ,South,-1.0564792715109
+Texas ,Dickens ,South,-0.591054011140944
+Texas ,Dimmit ,South,-0.21796370478128
+Texas ,Donley ,South,-0.622761335069481
+Texas ,Duval ,South,-0.32247299745134
+Texas ,Eastland ,South,0.360400179938503
+Texas ,Ector ,South,1.36955649556724
+Texas ,Edwards ,South,-2.18217462401158
+Texas ,El Paso ,South,0.658907415466938
+Texas ,Ellis ,South,0.051806495768628
+Texas ,Erath ,South,0.016038157669042
+Texas ,Falls ,South,0.143861868995292
+Texas ,Fannin ,South,0.223420597822295
+Texas ,Fayette ,South,-0.734137552894399
+Texas ,Fisher ,South,-0.430657090031965
+Texas ,Floyd ,South,-0.861193192208472
+Texas ,Foard ,South,-1.05793123670421
+Texas ,Fort Bend ,South,-0.297870707791204
+Texas ,Franklin ,South,-0.794153152718864
+Texas ,Freestone ,South,-0.339296631829805
+Texas ,Frio ,South,-0.257106526734413
+Texas ,Gaines ,South,0.987157042844991
+Texas ,Galveston ,South,-1.75521666780888
+Texas ,Garza ,South,-0.475182384811346
+Texas ,Gillespie ,South,-0.756084919637688
+Texas ,Glasscock ,South,-1.061308077471
+Texas ,Goliad ,South,-0.993673430750037
+Texas ,Gonzales ,South,-1.09252062862635
+Texas ,Gray ,South,0.42685144118551
+Texas ,Grayson ,South,-1.01608686389476
+Texas ,Gregg ,South,0.373823355455708
+Texas ,Grimes ,South,-0.209033414837915
+Texas ,Guadalupe ,South,-1.09515554979415
+Texas ,Hale ,South,-0.581242458914705
+Texas ,Hall ,South,-0.855584125046582
+Texas ,Hamilton ,South,-0.207894633857976
+Texas ,Hansford ,South,-0.08509399068573
+Texas ,Hardeman ,South,-1.1197875035151
+Texas ,Hardin ,South,-0.356559206024618
+Texas ,Harris ,South,-0.443351248013984
+Texas ,Harrison ,South,-0.046345454063825
+Texas ,Hartley ,South,-0.241546958583134
+Texas ,Haskell ,South,0.160365611610669
+Texas ,Hays ,South,-0.746404172277003
+Texas ,Hemphill ,South,-0.336201060158603
+Texas ,Henderson ,South,-0.860314609142433
+Texas ,Hidalgo ,South,-1.35641330042317
+Texas ,Hill ,South,-0.272798768778911
+Texas ,Hockley ,South,0.069832016731644
+Texas ,Hood ,South,0.416343018173262
+Texas ,Hopkins ,South,0.478801850015708
+Texas ,Houston ,South,0.156674682844686
+Texas ,Howard ,South,0.371556989993352
+Texas ,Hudspeth ,South,-1.96502034476788
+Texas ,Hunt ,South,-0.219291537817278
+Texas ,Hutchinson ,South,-0.31304245554309
+Texas ,Irion ,South,-0.282599209261433
+Texas ,Jack ,South,-0.281340260515221
+Texas ,Jackson ,South,-0.890292849877884
+Texas ,Jasper ,South,-0.331249255328016
+Texas ,Jeff Davis ,South,-3.50861668843705
+Texas ,Jefferson ,South,-1.51491405677394
+Texas ,Jim Hogg ,South,-1.2470991692714
+Texas ,Jim Wells ,South,0.013443448462024
+Texas ,Johnson ,South,0.158572679944654
+Texas ,Jones ,South,0.253175943070254
+Texas ,Karnes ,South,-0.257625220043939
+Texas ,Kaufman ,South,0.445792341120628
+Texas ,Kendall ,South,-1.42584176605211
+Texas ,Kenedy ,South,-3.73481029416211
+Texas ,Kent ,South,-0.98003901928715
+Texas ,Kerr ,South,-0.997678452429584
+Texas ,Kimble ,South,-2.50555207221475
+Texas ,King ,South,-1.51744559254081
+Texas ,Kinney ,South,-1.73952467688043
+Texas ,Kleberg ,South,-1.63396891939117
+Texas ,Knox ,South,-0.302615363535256
+Texas ,La Salle ,South,-1.01313815309025
+Texas ,Lamar ,South,0.574215700754594
+Texas ,Lamb ,South,0.165397262498454
+Texas ,Lampasas ,South,-0.771360307689527
+Texas ,Lavaca ,South,-0.023406627702766
+Texas ,Lee ,South,-1.85383452883036
+Texas ,Leon ,South,-0.016883108809693
+Texas ,Liberty ,South,-0.131286734272881
+Texas ,Limestone ,South,0.417775073827624
+Texas ,Lipscomb ,South,0.360409999080452
+Texas ,Live Oak ,South,-1.28058915676315
+Texas ,Llano ,South,-0.906454900888539
+Texas ,Loving ,South,-2.01612493534271
+Texas ,Lubbock ,South,-0.285264966242434
+Texas ,Lynn ,South,-1.15570702410263
+Texas ,Madison ,South,0.074970583524695
+Texas ,Marion ,South,-0.852924999128652
+Texas ,Martin ,South,-0.425658636529972
+Texas ,Mason ,South,-1.09991890939201
+Texas ,Matagorda ,South,-1.20566002428711
+Texas ,Maverick ,South,0.795611052972429
+Texas ,McCulloch ,South,-0.299524957228251
+Texas ,McLennan ,South,0.245743171143208
+Texas ,McMullen ,South,-3.01315847941635
+Texas ,Medina ,South,-0.339937744377925
+Texas ,Menard ,South,-1.15807905718811
+Texas ,Midland ,South,-0.369298340906775
+Texas ,Milam ,South,-0.509724025890166
+Texas ,Mills ,South,-0.531655711055513
+Texas ,Mitchell ,South,-0.516967333572204
+Texas ,Montague ,South,0.622392526434701
+Texas ,Montgomery ,South,-0.351689548465391
+Texas ,Moore ,South,0.315566780267467
+Texas ,Morris ,South,-0.999308737183799
+Texas ,Motley ,South,-0.901102078608045
+Texas ,Nacogdoches ,South,-0.138636645717276
+Texas ,Navarro ,South,0.012911909381132
+Texas ,Newton ,South,0.554548850214853
+Texas ,Nolan ,South,0.152584027288205
+Texas ,Nueces ,South,-1.31148829880836
+Texas ,Ochiltree ,South,0.550358984516112
+Texas ,Oldham ,South,-0.732999421963809
+Texas ,Orange ,South,0.550937042830253
+Texas ,Palo Pinto ,South,-0.700120891266341
+Texas ,Panola ,South,0.154618796255783
+Texas ,Parker ,South,0.509600970813858
+Texas ,Parmer ,South,0.208839452256426
+Texas ,Pecos ,South,-0.77873715347047
+Texas ,Polk ,South,0.183668163845594
+Texas ,Potter ,South,0.613214283245566
+Texas ,Presidio ,South,-1.2944053495545
+Texas ,Rains ,South,-1.30650924194374
+Texas ,Randall ,South,-0.359816387443856
+Texas ,Reagan ,South,-0.193558244070861
+Texas ,Real ,South,-1.87553885073302
+Texas ,Red River ,South,-0.07819783812448
+Texas ,Reeves ,South,-1.34686137096015
+Texas ,Refugio ,South,-1.99156097928357
+Texas ,Roberts ,South,-0.462963514414848
+Texas ,Robertson ,South,-0.478518614922719
+Texas ,Rockwall ,South,0.762016451365939
+Texas ,Runnels ,South,0.294079116347616
+Texas ,Rusk ,South,-0.041693720221679
+Texas ,Sabine ,South,-0.387292429813612
+Texas ,San Augustine ,South,-0.054230839770328
+Texas ,San Jacinto ,South,0.039566200614185
+Texas ,San Patricio ,South,-0.871693019472782
+Texas ,San Saba ,South,-1.81770038962077
+Texas ,Schleicher ,South,-0.477525325142065
+Texas ,Scurry ,South,0.223536115544614
+Texas ,Shackelford ,South,-0.582492146417392
+Texas ,Shelby ,South,-0.042239855230469
+Texas ,Sherman ,South,-0.097942104604798
+Texas ,Smith ,South,-0.010521959426326
+Texas ,Somervell ,South,-1.5595311983984
+Texas ,Starr ,South,-1.52339681594453
+Texas ,Stephens ,South,-0.118015105956118
+Texas ,Sterling ,South,-0.723459520687593
+Texas ,Stonewall ,South,-0.707573296750932
+Texas ,Sutton ,South,-0.92731309570672
+Texas ,Swisher ,South,-0.651750727357803
+Texas ,Tarrant ,South,-0.152752684607977
+Texas ,Taylor ,South,-0.042567054224641
+Texas ,Terrell ,South,-2.18123471879085
+Texas ,Terry ,South,0.372544931908971
+Texas ,Throckmorton ,South,-1.83015977131037
+Texas ,Titus ,South,0.196493754524972
+Texas ,Tom Green ,South,-0.543991275540329
+Texas ,Travis ,South,-1.18876170893529
+Texas ,Trinity ,South,0.087731936233179
+Texas ,Tyler ,South,-0.35302582582018
+Texas ,Upshur ,South,0.083114817485619
+Texas ,Upton ,South,-0.189623541464082
+Texas ,Uvalde ,South,-1.50677921383285
+Texas ,Val Verde ,South,-0.557842742584982
+Texas ,Van Zandt ,South,-1.04567918203973
+Texas ,Victoria ,South,-0.106384821009361
+Texas ,Walker ,South,0.197266163580692
+Texas ,Waller ,South,-1.17680453362402
+Texas ,Ward ,South,-0.093185449044422
+Texas ,Washington  ,South,-0.230870874096098
+Texas ,Webb ,South,0.015257726613968
+Texas ,Wharton ,South,-0.007586790298877
+Texas ,Wheeler ,South,-0.066158818451117
+Texas ,Wichita ,South,0.418018342538268
+Texas ,Wilbarger ,South,-0.858223182302056
+Texas ,Willacy ,South,-1.02633926420514
+Texas ,Williamson ,South,-0.865768005023596
+Texas ,Wilson ,South,-0.499005675913227
+Texas ,Winkler ,South,0.54702443126327
+Texas ,Wise ,South,0.033802931544174
+Texas ,Wood ,South,-0.011904203466799
+Texas ,Yoakum ,South,0.250594226330314
+Texas ,Young ,South,-0.483314143399342
+Texas ,Zapata ,South,-1.57369893105237
+Texas ,Zavala ,South,0.081450084909588
+Utah ,Beaver ,West,0.436454064518658
+Utah ,Box Elder ,West,-0.290364562660324
+Utah ,Cache ,West,-0.458625771030217
+Utah ,Carbon ,West,1.45078565261453
+Utah ,Daggett ,West,-0.213738132270345
+Utah ,Davis ,West,-0.016033900138127
+Utah ,Duchesne ,West,0.562294273911365
+Utah ,Emery ,West,0.718680962686834
+Utah ,Garfield ,West,-1.03652816699148
+Utah ,Grand ,West,-0.975945371844348
+Utah ,Iron ,West,0.612904196453969
+Utah ,Juab ,West,0.022557825487004
+Utah ,Kane ,West,-0.23725411000261
+Utah ,Millard ,West,0.146359564675989
+Utah ,Morgan ,West,-0.274751962192205
+Utah ,Piute ,West,0.236697440600772
+Utah ,Rich ,West,-0.335128917394247
+Utah ,Salt Lake ,West,0.185548313876983
+Utah ,San Juan ,West,-0.23707387924909
+Utah ,Sanpete ,West,1.4039215023875
+Utah ,Sevier ,West,1.16070629299452
+Utah ,Summit ,West,-0.132169299017456
+Utah ,Tooele ,West,0.768076616842608
+Utah ,Uintah ,West,0.254211588986678
+Utah ,Utah  ,West,0.085688135038467
+Utah ,Wasatch ,West,-0.013966905547079
+Utah ,Washington  ,West,-0.469334473157291
+Utah ,Wayne ,West,-0.450548464134205
+Utah ,Weber ,West,0.948902530913093
+Vermont ,Addison ,Northeast,-1.71666044239573
+Vermont ,Bennington ,Northeast,-0.482590299931007
+Vermont ,Caledonia ,Northeast,0.201069385865271
+Vermont ,Chittenden ,Northeast,-0.993728416614782
+Vermont ,Essex ,Northeast,-0.666593412494738
+Vermont ,Franklin ,Northeast,-0.442501267225512
+Vermont ,Grand Isle ,Northeast,-1.02598513439227
+Vermont ,Lamoille ,Northeast,-0.569605416451371
+Vermont ,Orange ,Northeast,-0.261408372112435
+Vermont ,Orleans ,Northeast,-0.312903167565238
+Vermont ,Rutland ,Northeast,-0.947359914375184
+Vermont ,Washington  ,Northeast,-0.65524200943168
+Vermont ,Windham ,Northeast,-0.84168873215443
+Vermont ,Windsor ,Northeast,-1.38430288900092
+Virginia ,Accomack ,South,-2.40621629250833
+Virginia ,Albemarle ,South,-1.37891824633852
+Virginia ,Alexandria City ,South,-0.593041629039894
+Virginia ,Alleghany ,South,-0.003053578679551
+Virginia ,Amelia ,South,-0.205639445005801
+Virginia ,Amherst ,South,-0.632674571094416
+Virginia ,Appomattox ,South,-0.946095537565673
+Virginia ,Arlington ,South,-0.470149586495821
+Virginia ,Augusta ,South,-1.28299611482206
+Virginia ,Bath ,South,-0.937134598769725
+Virginia ,Bedford  ,South,-0.4499031916613
+Virginia ,Bland ,South,-0.191670691633776
+Virginia ,Botetourt ,South,-1.17491478387309
+Virginia ,Bristol City ,South,0.148049219878304
+Virginia ,Brunswick ,South,0.530601358836747
+Virginia ,Buchanan ,South,0.114108055180774
+Virginia ,Buckingham ,South,-0.794378110421043
+Virginia ,Buena Vista City ,South,0.549506391569077
+Virginia ,Campbell ,South,0.748153546137582
+Virginia ,Caroline ,South,0.05616197249041
+Virginia ,Carroll ,South,-0.044963125851582
+Virginia ,Charles City  ,South,-1.25328198763856
+Virginia ,Charlotte ,South,-0.223055831842592
+Virginia ,Charlottesville City ,South,-1.06551252759885
+Virginia ,Chesapeake City ,South,0.047796661165598
+Virginia ,Chesterfield ,South,-0.261180648031193
+Virginia ,Clarke ,South,-1.58050999848173
+Virginia ,Colonial Heights City ,South,0.277408647267821
+Virginia ,Covington City ,South,0.635410101403711
+Virginia ,Craig ,South,-0.607684015935295
+Virginia ,Culpeper ,South,-0.754702287569466
+Virginia ,Cumberland ,South,-0.470438569947372
+Virginia ,Danville City ,South,0.507603544106465
+Virginia ,Dickenson ,South,-0.085784903073102
+Virginia ,Dinwiddie ,South,0.167262742810218
+Virginia ,Emporia City ,South,0.496132498812891
+Virginia ,Essex ,South,-0.276916844822356
+Virginia ,Fairfax  ,South,-1.07656091852856
+Virginia ,Fairfax City ,South,-1.22758963305681
+Virginia ,Falls Church City ,South,0.351093315201789
+Virginia ,Fauquier ,South,-1.50177719751919
+Virginia ,Floyd ,South,-0.760537836545754
+Virginia ,Fluvanna ,South,-0.858227215976015
+Virginia ,Franklin  ,South,-0.279511221345731
+Virginia ,Franklin City ,South,0.276387961019409
+Virginia ,Frederick ,South,-0.44454902334864
+Virginia ,Fredericksburg City ,South,-0.183307434192576
+Virginia ,Galax City ,South,1.22653506355981
+Virginia ,Giles ,South,-0.5196188715862
+Virginia ,Gloucester ,South,-1.07786892664434
+Virginia ,Goochland ,South,-0.078398668058545
+Virginia ,Grayson ,South,-0.759676275707131
+Virginia ,Greene ,South,-0.605365827918895
+Virginia ,Greensville ,South,0.350158144220289
+Virginia ,Halifax ,South,-0.800188376714477
+Virginia ,Hampton City ,South,-0.119751812138419
+Virginia ,Hanover ,South,0.119476736367158
+Virginia ,Harrisonburg City ,South,-0.262243909615576
+Virginia ,Henrico ,South,-0.236014619671503
+Virginia ,Henry ,South,1.13513574379539
+Virginia ,Highland  ,South,-2.5235652043556
+Virginia ,Hopewell City ,South,0.565551775646573
+Virginia ,Isle of Wight ,South,-0.240977377046882
+Virginia ,James City  ,South,-1.3865395247073
+Virginia ,King and Queen ,South,-0.608237320860366
+Virginia ,King George ,South,-0.846071892679657
+Virginia ,King William ,South,-0.601871790530715
+Virginia ,Lancaster ,South,-1.04784184790322
+Virginia ,Lee ,South,0.627040404421895
+Virginia ,Lexington City ,South,0.40481813174692
+Virginia ,Loudoun ,South,-0.554688550330242
+Virginia ,Louisa ,South,-0.584990418444686
+Virginia ,Lunenburg ,South,-0.323094638569771
+Virginia ,Lynchburg City ,South,0.398165724845022
+Virginia ,Madison ,South,-1.16826892126716
+Virginia ,Manassas City ,South,-0.038748210216679
+Virginia ,Manassas Park City ,South,1.61872204276668
+Virginia ,Martinsville City ,South,1.33539747001131
+Virginia ,Mathews ,South,-0.972606238385265
+Virginia ,Mecklenburg ,South,-0.988048374172052
+Virginia ,Middlesex ,South,-0.440270677681572
+Virginia ,Montgomery ,South,-1.16136513455585
+Virginia ,Nelson ,South,-1.03928520495699
+Virginia ,New Kent ,South,-0.541118511733334
+Virginia ,Newport News City ,South,0.027770714677822
+Virginia ,Norfolk City ,South,-0.241253711127356
+Virginia ,Northampton ,South,-2.74420748967679
+Virginia ,Northumberland ,South,-0.715660682480695
+Virginia ,Norton City ,South,0.989937211514425
+Virginia ,Nottoway ,South,-0.191691113962479
+Virginia ,Orange ,South,-0.16546060121274
+Virginia ,Page ,South,-0.739613635546335
+Virginia ,Patrick ,South,-0.319324100842023
+Virginia ,Petersburg City ,South,1.16867669143748
+Virginia ,Pittsylvania ,South,0.158090849125141
+Virginia ,Poquoson City ,South,-0.324590728052473
+Virginia ,Portsmouth City ,South,0.059991979045037
+Virginia ,Powhatan ,South,-0.807492990981205
+Virginia ,Prince Edward ,South,-1.69775452506299
+Virginia ,Prince George ,South,-0.003662230392187
+Virginia ,Prince William ,South,-0.720361951001805
+Virginia ,Pulaski ,South,-0.744947793629789
+Virginia ,Radford City ,South,-1.9733157766231
+Virginia ,Rappahannock ,South,-1.06611519543151
+Virginia ,Richmond  ,South,-0.676173930379275
+Virginia ,Richmond City ,South,-0.554978808449819
+Virginia ,Roanoke  ,South,-0.474942163724929
+Virginia ,Roanoke City ,South,0.033556538574712
+Virginia ,Rockbridge ,South,-1.11106458578167
+Virginia ,Rockingham ,South,-1.72598936304152
+Virginia ,Russell ,South,0.497984564604803
+Virginia ,Salem City ,South,0.084618771096428
+Virginia ,Scott ,South,1.03307313209567
+Virginia ,Shenandoah ,South,-1.07631636612125
+Virginia ,Smyth ,South,0.385292316822565
+Virginia ,Southampton ,South,0.219612638046993
+Virginia ,Spotsylvania ,South,0.443126223615106
+Virginia ,Stafford ,South,0.275909323852997
+Virginia ,Staunton City ,South,-0.534889889456747
+Virginia ,Suffolk City ,South,-0.262304992803368
+Virginia ,Surry ,South,-1.16751174659363
+Virginia ,Sussex ,South,-0.839420894376402
+Virginia ,Tazewell ,South,-0.005951024390715
+Virginia ,Virginia Beach City ,South,-0.93709113855511
+Virginia ,Warren ,South,-0.529689947256706
+Virginia ,Washington  ,South,0.291160061665706
+Virginia ,Waynesboro City ,South,-0.257244002515314
+Virginia ,Westmoreland ,South,-0.830463358029398
+Virginia ,Williamsburg City ,South,-1.23928701346479
+Virginia ,Winchester City ,South,0.700841689197146
+Virginia ,Wise ,South,0.430277682850936
+Virginia ,Wythe ,South,-0.136934152919198
+Virginia ,York ,South,-0.722217039043075
+Washington ,Adams ,West,-0.164332192057805
+Washington ,Asotin ,West,0.475145123772683
+Washington ,Benton ,West,0.89366046932764
+Washington ,Chelan ,West,-0.653520297255571
+Washington ,Clallam ,West,-1.13704585764668
+Washington ,Clark ,West,0.487029220536722
+Washington ,Columbia ,West,0.10985930020558
+Washington ,Cowlitz ,West,0.631479932280214
+Washington ,Douglas ,West,-0.167517329302546
+Washington ,Ferry ,West,-0.16783371297306
+Washington ,Franklin ,West,0.981457525930124
+Washington ,Garfield ,West,0.161168152015006
+Washington ,Grant ,West,-0.170537231753205
+Washington ,Grays Harbor ,West,-0.856006692289479
+Washington ,Island ,West,-0.441397685025244
+Washington ,Jefferson ,West,-1.00362488262004
+Washington ,King ,West,-0.484252814637416
+Washington ,Kitsap ,West,-0.239905953049257
+Washington ,Kittitas ,West,-0.865301149101068
+Washington ,Klickitat ,West,-0.642537043267915
+Washington ,Lewis ,West,0.295968241182972
+Washington ,Lincoln ,West,-0.641875679928701
+Washington ,Mason ,West,0.182964537743967
+Washington ,Okanogan ,West,-0.671694799038392
+Washington ,Pacific ,West,-0.728931972909383
+Washington ,Pend Oreille ,West,-0.25756791011695
+Washington ,Pierce ,West,0.011978451226866
+Washington ,San Juan ,West,-1.36561380387758
+Washington ,Skagit ,West,-1.07244359103424
+Washington ,Skamania ,West,-0.202131328654058
+Washington ,Snohomish ,West,0.059361861201358
+Washington ,Spokane ,West,0.432802715280941
+Washington ,Stevens ,West,-0.087654582233024
+Washington ,Thurston ,West,-0.420745787840059
+Washington ,Wahkiakum ,West,-0.579583221579553
+Washington ,Walla Walla ,West,-0.453922909954968
+Washington ,Whatcom ,West,-0.3345218246194
+Washington ,Whitman ,West,0.151417289653917
+Washington ,Yakima ,West,-0.160194948546643
+West Virginia ,Barbour ,South,-0.175479744228501
+West Virginia ,Berkeley ,South,0.029659905343773
+West Virginia ,Boone ,South,1.93324961580668
+West Virginia ,Braxton ,South,0.358105713888229
+West Virginia ,Brooke ,South,0.836290242867473
+West Virginia ,Cabell ,South,-0.060985555718092
+West Virginia ,Calhoun ,South,1.26551923732005
+West Virginia ,Clay ,South,1.64902325949058
+West Virginia ,Doddridge ,South,0.648288836534913
+West Virginia ,Fayette ,South,-0.838607900410845
+West Virginia ,Gilmer ,South,0.603382907284019
+West Virginia ,Grant ,South,-0.979269822263996
+West Virginia ,Greenbrier ,South,0.09249093977677
+West Virginia ,Hampshire ,South,-0.22142117010053
+West Virginia ,Hancock ,South,0.97957790086644
+West Virginia ,Hardy ,South,-1.26804897001341
+West Virginia ,Harrison ,South,0.80127542886646
+West Virginia ,Jackson ,South,0.881502320318521
+West Virginia ,Jefferson ,South,-1.38050539564155
+West Virginia ,Kanawha ,South,-0.430721594219186
+West Virginia ,Lewis ,South,-0.51175185267839
+West Virginia ,Lincoln ,South,1.7156903128542
+West Virginia ,Logan ,South,1.5533365180146
+West Virginia ,Marion ,South,-0.436640103602159
+West Virginia ,Marshall ,South,1.07313791478582
+West Virginia ,Mason ,South,-0.729260380491964
+West Virginia ,McDowell ,South,1.89685670332271
+West Virginia ,Mercer ,South,0.173008247711546
+West Virginia ,Mineral ,South,-0.177374390047145
+West Virginia ,Mingo ,South,1.70739631970159
+West Virginia ,Monongalia ,South,-1.10989036629472
+West Virginia ,Monroe ,South,0.077784976561398
+West Virginia ,Morgan ,South,-0.173992683616909
+West Virginia ,Nicholas ,South,0.12619637464933
+West Virginia ,Ohio  ,South,0.282150001694643
+West Virginia ,Pendleton ,South,-1.33669832655245
+West Virginia ,Pleasants ,South,-0.161150026624411
+West Virginia ,Pocahontas ,South,-1.67956812395316
+West Virginia ,Preston ,South,-1.38924036004147
+West Virginia ,Putnam ,South,0.047485392341395
+West Virginia ,Raleigh ,South,0.330545471890643
+West Virginia ,Randolph ,South,-0.907966805231088
+West Virginia ,Ritchie ,South,-1.12878620274712
+West Virginia ,Roane ,South,1.44030284318571
+West Virginia ,Summers ,South,-0.967941208468527
+West Virginia ,Taylor ,South,-0.46656486659863
+West Virginia ,Tucker ,South,-1.90982549595193
+West Virginia ,Tyler ,South,1.19308480916963
+West Virginia ,Upshur ,South,0.953196724591558
+West Virginia ,Wayne ,South,0.212581320787381
+West Virginia ,Webster ,South,1.02117282725319
+West Virginia ,Wetzel ,South,-0.508822185558918
+West Virginia ,Wirt ,South,1.89239425765444
+West Virginia ,Wood ,South,0.149259392164977
+West Virginia ,Wyoming  ,South,1.59605230255723
+Wisconsin ,Adams ,Midwest,-0.560401293557564
+Wisconsin ,Ashland ,Midwest,-1.71192217262365
+Wisconsin ,Barron ,Midwest,-0.268795543511941
+Wisconsin ,Bayfield ,Midwest,-2.02535536876401
+Wisconsin ,Brown ,Midwest,-0.499245602300801
+Wisconsin ,Buffalo ,Midwest,-0.508362088934845
+Wisconsin ,Burnett ,Midwest,-1.56118537083358
+Wisconsin ,Calumet ,Midwest,-0.380546223551736
+Wisconsin ,Chippewa ,Midwest,-0.673557189348251
+Wisconsin ,Clark ,Midwest,-0.360321924445796
+Wisconsin ,Columbia ,Midwest,-1.13908810000746
+Wisconsin ,Crawford ,Midwest,-1.02986127806096
+Wisconsin ,Dane ,Midwest,-1.40004248118185
+Wisconsin ,Dodge ,Midwest,-1.19386696718127
+Wisconsin ,Door ,Midwest,-1.87815819793538
+Wisconsin ,Douglas ,Midwest,-1.78419013342393
+Wisconsin ,Dunn ,Midwest,-0.747953707156654
+Wisconsin ,Eau Claire ,Midwest,-0.428137022361095
+Wisconsin ,Florence ,Midwest,-2.68435966000059
+Wisconsin ,Fond du Lac ,Midwest,-0.586778256139948
+Wisconsin ,Forest ,Midwest,-1.57355522302706
+Wisconsin ,Grant ,Midwest,-1.08139446714593
+Wisconsin ,Green ,Midwest,-0.321778252607904
+Wisconsin ,Green Lake ,Midwest,-1.2131880973661
+Wisconsin ,Iowa  ,Midwest,-1.56059895009022
+Wisconsin ,Iron ,Midwest,-1.19123214147937
+Wisconsin ,Jackson ,Midwest,-0.535840850064245
+Wisconsin ,Jefferson ,Midwest,-1.00906783596599
+Wisconsin ,Juneau ,Midwest,-0.758805298417089
+Wisconsin ,Kenosha ,Midwest,0.040128219000286
+Wisconsin ,Kewaunee ,Midwest,-1.05025736555724
+Wisconsin ,La Crosse ,Midwest,-0.628789216916443
+Wisconsin ,Lafayette ,Midwest,-0.5315686190879
+Wisconsin ,Langlade ,Midwest,-0.498682502326544
+Wisconsin ,Lincoln ,Midwest,-0.593525235389765
+Wisconsin ,Manitowoc ,Midwest,-1.36463788111836
+Wisconsin ,Marathon ,Midwest,-0.690578750431737
+Wisconsin ,Marinette ,Midwest,-1.41132351496955
+Wisconsin ,Marquette ,Midwest,-0.61070449828964
+Wisconsin ,Menominee ,Midwest,-0.18305771382293
+Wisconsin ,Milwaukee ,Midwest,-0.637256752723033
+Wisconsin ,Monroe ,Midwest,-0.64181574109814
+Wisconsin ,Oconto ,Midwest,-0.572789441488059
+Wisconsin ,Oneida ,Midwest,-1.00297719964785
+Wisconsin ,Outagamie ,Midwest,-0.276684604446548
+Wisconsin ,Ozaukee ,Midwest,-1.38617158450595
+Wisconsin ,Pepin ,Midwest,-0.142461154261927
+Wisconsin ,Pierce ,Midwest,-0.067873099320332
+Wisconsin ,Polk ,Midwest,-1.15574936949251
+Wisconsin ,Portage ,Midwest,-0.876468177457691
+Wisconsin ,Price ,Midwest,-0.80185366864549
+Wisconsin ,Racine ,Midwest,-0.654420700270368
+Wisconsin ,Richland ,Midwest,-0.973844882539709
+Wisconsin ,Rock ,Midwest,-0.442084626078734
+Wisconsin ,Rusk ,Midwest,-0.540204793920126
+Wisconsin ,Sauk ,Midwest,-1.19090453489453
+Wisconsin ,Sawyer ,Midwest,-0.983089036346956
+Wisconsin ,Shawano ,Midwest,-0.187517602740473
+Wisconsin ,Sheboygan ,Midwest,-0.6363026554112
+Wisconsin ,St. Croix ,Midwest,-0.280342238009262
+Wisconsin ,Taylor ,Midwest,-0.141257326353866
+Wisconsin ,Trempealeau ,Midwest,-0.57803834102801
+Wisconsin ,Vernon ,Midwest,-1.20679545568787
+Wisconsin ,Vilas ,Midwest,-1.48051603210852
+Wisconsin ,Walworth ,Midwest,-0.367995349623509
+Wisconsin ,Washburn ,Midwest,-0.830870608573034
+Wisconsin ,Washington  ,Midwest,-0.267553491897938
+Wisconsin ,Waukesha ,Midwest,-0.410112325080408
+Wisconsin ,Waupaca ,Midwest,-0.132114369043569
+Wisconsin ,Waushara ,Midwest,-0.413747325621424
+Wisconsin ,Winnebago ,Midwest,-0.407325217728074
+Wisconsin ,Wood ,Midwest,0.138373206380028
+Wyoming ,Albany ,West,-0.468767158954956
+Wyoming ,Big Horn ,West,0.783623592879532
+Wyoming ,Campbell ,West,1.89947124652635
+Wyoming ,Carbon ,West,0.180469510059051
+Wyoming ,Converse ,West,0.635282479763494
+Wyoming ,Crook ,West,0.143079459912537
+Wyoming ,Fremont ,West,-0.347616036780287
+Wyoming ,Goshen ,West,1.10462699264513
+Wyoming ,Hot Springs ,West,0.878125594824117
+Wyoming ,Johnson ,West,0.400512337917124
+Wyoming ,Laramie ,West,0.057877994498056
+Wyoming ,Lincoln ,West,0.992126769041342
+Wyoming ,Natrona ,West,0.744949976157029
+Wyoming ,Niobrara ,West,1.31876297371578
+Wyoming ,Park ,West,-0.805439463057159
+Wyoming ,Platte ,West,0.759056160705725
+Wyoming ,Sheridan ,West,0.627973904849704
+Wyoming ,Sublette ,West,0.460502171906291
+Wyoming ,Sweetwater ,West,0.751703070764957
+Wyoming ,Teton ,West,-1.15396732699235
+Wyoming ,Uinta ,West,1.02502265103766
+Wyoming ,Washakie ,West,0.136705517379214
+Wyoming ,Weston ,West,1.27844493250642
