@@ -15,3 +15,7 @@ The R markdown workflow to create the PDF.
 3. r-distance-regional.csv
 
 Residual distances for all counties.
+
+4. GDP-eBird_data.csv
+
+Raw data file for completing analyses.
