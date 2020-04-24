@@ -12,9 +12,9 @@ The HTML workflow for this document, including R codes to create all plots and i
 
 Code for aligning and fixing the DBF file to make the map figures in the manuscript.
 
-3. r-distance-regional.csv
+3. all_division_r_distances.csv
 
-Residual distances for all counties.
+Residual distances for all counties, performed by using the regression of GDP + GDP interaction with population in each individual census division.
 
 4. GDP-eBird_data.csv
 
