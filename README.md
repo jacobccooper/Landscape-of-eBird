@@ -4,13 +4,13 @@ This code accompanies Jacob C. Cooper's manuscript on the landscape of eBird in 
 
 ## Contents
 
-1. Landscape of eBird PDF
+1. Landscape of eBird html
 
-The PDF workflow for this manuscript.
+The HTML workflow for this document, including R codes to create all plots and interactive 3D plots.
 
-2. Landscape of eBird RMD
+2. DBF_Aligner html
 
-The R markdown workflow to create the PDF.
+Code for aligning and fixing the DBF file to make the map figures in the manuscript.
 
 3. r-distance-regional.csv
 
